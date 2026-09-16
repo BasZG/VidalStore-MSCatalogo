@@ -1,0 +1,3 @@
+COGNITO_USER_POOL_ID=valor falso
+COGNITO_REGION=us-east-1 
+COGNITO_CLIENT_ID=valor falso
