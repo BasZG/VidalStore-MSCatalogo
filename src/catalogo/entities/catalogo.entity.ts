@@ -1,5 +1,5 @@
 export class Catalogo {
-  id: number;
+  id: string;
   titulo: string;
   descripcion: string;
   imagen: string;

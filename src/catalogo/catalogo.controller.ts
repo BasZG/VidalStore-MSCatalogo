@@ -1,27 +1,38 @@
-import { Controller, Get, Post, Put, Param, Body, UseGuards } from '@nestjs/common';import { CatalogoService } from './catalogo.service.js';
+import { Body,Controller,Get,Param,Post,Put,UseGuards} from '@nestjs/common';
+import { CatalogoService } from './catalogo.service.js';
 import { CreateCatalogoDto } from './dto/create-catalogo.dto.js';
 import { UpdateCatalogoDto } from './dto/update-catalogo.dto.js';
 import { JwtAuthGuard } from '../auth/jwt-auth.guard.js';
 
 @UseGuards(JwtAuthGuard)
-@Controller('catalogo')
+@Controller('v1/catalogo')
 export class CatalogoController {
-  constructor(private readonly catalogoService: CatalogoService) {}
-
-  @Post()
-  create(@Body() createCatalogoDto: CreateCatalogoDto) {
-    return this.catalogoService.create(createCatalogoDto);
-  }
+  constructor(
+    private readonly catalogoService: CatalogoService,
+  ) {}
 
   @Get()
   findAll() {
     return this.catalogoService.findAll();
   }
 
-  @Put(':id')
-  update(@Param('id') id: string, @Body() updateCatalogoDto: UpdateCatalogoDto) {
-    return this.catalogoService.update(+id, updateCatalogoDto);
+  @Post()
+  create(
+    @Body() createCatalogoDto: CreateCatalogoDto,
+  ) {
+    return this.catalogoService.create(
+      createCatalogoDto,
+    );
   }
 
-
+  @Put(':juegoId')
+  update(
+    @Param('juegoId') juegoId: string,
+    @Body() updateCatalogoDto: UpdateCatalogoDto,
+  ) {
+    return this.catalogoService.update(
+      juegoId,
+      updateCatalogoDto,
+    );
+  }
 }
