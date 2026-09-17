@@ -191,6 +191,24 @@ export class CatalogoService {
         'precio debe ser un número mayor o igual a cero',
       );
     }
+
+    if (
+      dto.genero !== undefined &&
+      !this.textoValido(dto.genero)
+    ) {
+      throw new BadRequestException(
+        'genero debe ser string no vacío',
+      );
+    }
+
+    if (
+      dto.fechaPublicacion !== undefined &&
+      !this.textoValido(dto.fechaPublicacion)
+    ) {
+      throw new BadRequestException(
+        'fechaPublicacion debe ser string no vacío',
+      );
+    }
   }
 
   private validarUpdate(dto: UpdateCatalogoDto): void {
