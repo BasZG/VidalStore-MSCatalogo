@@ -3,4 +3,6 @@ export class CreateCatalogoDto {
   descripcion: string;
   imagen: string;
   precio: number;
+  genero?: string;
+  fechaPublicacion?: string;
 }
