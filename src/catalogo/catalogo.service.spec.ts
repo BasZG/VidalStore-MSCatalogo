@@ -173,4 +173,86 @@ describe('CatalogoService', () => {
       } as any),
     ).toThrow(BadRequestException);
   });
+    it('debe rechazar body ausente al crear', () => {
+    expect(() =>
+      service.create(undefined as any),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe rechazar body null al crear', () => {
+    expect(() =>
+      service.create(null as any),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe rechazar un arreglo como body al crear', () => {
+    expect(() =>
+      service.create([] as any),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe rechazar body ausente al actualizar', () => {
+    expect(() =>
+      service.update(
+        'juego-inicial',
+        undefined as any,
+      ),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe rechazar body null al actualizar', () => {
+    expect(() =>
+      service.update(
+        'juego-inicial',
+        null as any,
+      ),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe rechazar un arreglo como body al actualizar', () => {
+    expect(() =>
+      service.update(
+        'juego-inicial',
+        [] as any,
+      ),
+    ).toThrow(BadRequestException);
+  });
+
+  it('debe aceptar precio cero al crear', () => {
+    const juego = service.create({
+      titulo: 'Juego gratis',
+      descripcion: 'Juego sin costo',
+      imagen: 'gratis.jpg',
+      precio: 0,
+    });
+
+    expect(juego.precio).toBe(0);
+  });
+
+  it('debe aceptar campos opcionales omitidos', () => {
+    const juego = service.create({
+      titulo: 'Juego simple',
+      descripcion: 'Sin opcionales',
+      imagen: 'simple.jpg',
+      precio: 1000,
+    });
+
+    expect(juego.genero).toBeUndefined();
+    expect(juego.fechaPublicacion).toBeUndefined();
+  });
+
+  it('no debe modificar datos si el update es invalido', () => {
+    expect(() =>
+      service.update(
+        'juego-inicial',
+        null as any,
+      ),
+    ).toThrow(BadRequestException);
+
+    const juegos = service.findAll();
+
+    expect(juegos).toHaveLength(1);
+    expect(juegos[0].id).toBe('juego-inicial');
+    expect(juegos[0].precio).toBe(10000);
+  });
 });
