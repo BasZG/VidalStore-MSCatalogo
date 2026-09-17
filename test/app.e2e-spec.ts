@@ -137,4 +137,16 @@ describe('MSCatalogo (e2e)', () => {
       })
       .expect(400);
   });
+
+    it('POST sin body devuelve 400', async () => {
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .expect(400);
+  });
+
+  it('PUT sin body devuelve 400', async () => {
+    await request(app.getHttpServer())
+      .put('/v1/catalogo/juego-inicial')
+      .expect(400);
+  });
 });
