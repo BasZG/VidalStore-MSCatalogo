@@ -6,7 +6,7 @@ import { randomUUID } from 'node:crypto';
 // Modelo destino (equivalente al Juego del micro)
 // ─────────────────────────────────────────────────────────────
 interface Juego {
-  juegoId: string;
+  id: string;
   titulo: string;
   descripcion: string;
   imagen: string;
@@ -33,7 +33,7 @@ interface FreeToGameJuego {
 // ─────────────────────────────────────────────────────────────
 function transformar(f: FreeToGameJuego): Juego {
   return {
-    juegoId: randomUUID(),
+    id: randomUUID(),
     titulo: f.title,
     descripcion: f.short_description,
     imagen: f.thumbnail,

@@ -11,14 +11,18 @@ import { CreateCatalogoDto } from './dto/create-catalogo.dto.js';
 import { UpdateCatalogoDto } from './dto/update-catalogo.dto.js';
 import { Catalogo } from './entities/catalogo.entity.js';
 
+type CatalogoPersistido = Catalogo & {
+  juegoId?: string;
+};
+
 @Injectable()
 export class CatalogoService {
   create(createCatalogoDto: CreateCatalogoDto): Catalogo {
-    this.validarCreacion(createCatalogoDto);
+    this.validarCreate(createCatalogoDto);
 
     const juegos = this.leerJuegos();
     const juego: Catalogo = {
-      juegoId: randomUUID(),
+      id: randomUUID(),
       titulo: createCatalogoDto.titulo.trim(),
       descripcion: createCatalogoDto.descripcion.trim(),
       imagen: createCatalogoDto.imagen.trim(),
@@ -27,7 +31,10 @@ export class CatalogoService {
         ? { genero: createCatalogoDto.genero.trim() }
         : {}),
       ...(createCatalogoDto.fechaPublicacion?.trim()
-        ? { fechaPublicacion: createCatalogoDto.fechaPublicacion.trim() }
+        ? {
+            fechaPublicacion:
+              createCatalogoDto.fechaPublicacion.trim(),
+          }
         : {}),
     };
 
@@ -41,44 +48,54 @@ export class CatalogoService {
     return this.leerJuegos();
   }
 
-  update(juegoId: string, updateCatalogoDto: UpdateCatalogoDto): Catalogo {
-    this.validarActualizacion(updateCatalogoDto);
-
+  update(
+    juegoId: string,
+    updateCatalogoDto: UpdateCatalogoDto,
+  ): Catalogo {
     const juegos = this.leerJuegos();
-    const indice = juegos.findIndex((juego) => juego.juegoId === juegoId);
+    const indice = juegos.findIndex(
+      (juego) => juego.id === juegoId,
+    );
 
     if (indice === -1) {
       throw new NotFoundException('Juego no encontrado');
     }
 
-    const actual = juegos[indice];
-    const actualizado: Catalogo = {
-      ...actual,
-      ...(updateCatalogoDto.titulo !== undefined
-        ? { titulo: updateCatalogoDto.titulo.trim() }
-        : {}),
-      ...(updateCatalogoDto.descripcion !== undefined
-        ? { descripcion: updateCatalogoDto.descripcion.trim() }
-        : {}),
-      ...(updateCatalogoDto.imagen !== undefined
-        ? { imagen: updateCatalogoDto.imagen.trim() }
-        : {}),
-      ...(updateCatalogoDto.precio !== undefined
-        ? { precio: updateCatalogoDto.precio }
-        : {}),
-      ...(updateCatalogoDto.genero !== undefined
-        ? { genero: updateCatalogoDto.genero.trim() }
-        : {}),
-      ...(updateCatalogoDto.fechaPublicacion !== undefined
-        ? { fechaPublicacion: updateCatalogoDto.fechaPublicacion.trim() }
-        : {}),
-      juegoId: actual.juegoId,
-    };
+    this.validarUpdate(updateCatalogoDto);
 
-    juegos[indice] = actualizado;
+    const juego = juegos[indice];
+
+    if (updateCatalogoDto.titulo !== undefined) {
+      juego.titulo = updateCatalogoDto.titulo.trim();
+    }
+
+    if (updateCatalogoDto.descripcion !== undefined) {
+      juego.descripcion =
+        updateCatalogoDto.descripcion.trim();
+    }
+
+    if (updateCatalogoDto.imagen !== undefined) {
+      juego.imagen = updateCatalogoDto.imagen.trim();
+    }
+
+    if (updateCatalogoDto.precio !== undefined) {
+      juego.precio = updateCatalogoDto.precio;
+    }
+
+    if (updateCatalogoDto.genero !== undefined) {
+      juego.genero = updateCatalogoDto.genero.trim();
+    }
+
+    if (
+      updateCatalogoDto.fechaPublicacion !== undefined
+    ) {
+      juego.fechaPublicacion =
+        updateCatalogoDto.fechaPublicacion.trim();
+    }
+
     this.guardarJuegos(juegos);
 
-    return actualizado;
+    return juego;
   }
 
   private get rutaDatos(): string {
@@ -94,10 +111,39 @@ export class CatalogoService {
       const datos: unknown = JSON.parse(contenido);
 
       if (!Array.isArray(datos)) {
-        throw new Error('El archivo de catálogo no contiene un arreglo');
+        throw new Error(
+          'El archivo de catálogo no contiene un arreglo',
+        );
       }
 
-      return datos as Catalogo[];
+      return (datos as CatalogoPersistido[]).map(
+        (juego) => {
+          const id = juego.id ?? juego.juegoId;
+
+          if (!id) {
+            throw new Error(
+              'Existe un juego sin identificador',
+            );
+          }
+
+          return {
+            id,
+            titulo: juego.titulo,
+            descripcion: juego.descripcion,
+            imagen: juego.imagen,
+            precio: juego.precio,
+            ...(juego.genero
+              ? { genero: juego.genero }
+              : {}),
+            ...(juego.fechaPublicacion
+              ? {
+                  fechaPublicacion:
+                    juego.fechaPublicacion,
+                }
+              : {}),
+          };
+        },
+      );
     } catch (error) {
       throw new InternalServerErrorException(
         'No fue posible leer los datos del catálogo',
@@ -121,44 +167,115 @@ export class CatalogoService {
     }
   }
 
-  private validarCreacion(dto: CreateCatalogoDto): void {
-    if (
-      !this.textoValido(dto.titulo) ||
-      !this.textoValido(dto.descripcion) ||
-      !this.textoValido(dto.imagen) ||
-      !this.precioValido(dto.precio)
-    ) {
+  private validarCreate(dto: CreateCatalogoDto): void {
+    if (!this.textoValido(dto.titulo)) {
       throw new BadRequestException(
-        'titulo, descripcion, imagen y precio válido son obligatorios',
+        'titulo debe ser string no vacío',
+      );
+    }
+
+    if (!this.textoValido(dto.descripcion)) {
+      throw new BadRequestException(
+        'descripcion debe ser string no vacío',
+      );
+    }
+
+    if (!this.textoValido(dto.imagen)) {
+      throw new BadRequestException(
+        'imagen debe ser string no vacío',
+      );
+    }
+
+    if (!this.precioValido(dto.precio)) {
+      throw new BadRequestException(
+        'precio debe ser un número mayor o igual a cero',
       );
     }
   }
 
-  private validarActualizacion(dto: UpdateCatalogoDto): void {
-    const entradas = Object.entries(dto);
+  private validarUpdate(dto: UpdateCatalogoDto): void {
+    const tieneCampoActualizable = [
+      dto.titulo,
+      dto.descripcion,
+      dto.imagen,
+      dto.precio,
+      dto.genero,
+      dto.fechaPublicacion,
+    ].some((valor) => valor !== undefined);
 
-    if (entradas.length === 0) {
-      throw new BadRequestException('Debes enviar al menos un campo');
+    if (!tieneCampoActualizable) {
+      throw new BadRequestException(
+        'Debes enviar al menos un campo actualizable',
+      );
     }
 
     if (
-      (dto.titulo !== undefined && !this.textoValido(dto.titulo)) ||
-      (dto.descripcion !== undefined && !this.textoValido(dto.descripcion)) ||
-      (dto.imagen !== undefined && !this.textoValido(dto.imagen)) ||
-      (dto.precio !== undefined && !this.precioValido(dto.precio)) ||
-      (dto.genero !== undefined && !this.textoValido(dto.genero)) ||
-      (dto.fechaPublicacion !== undefined &&
-        !this.textoValido(dto.fechaPublicacion))
+      dto.titulo !== undefined &&
+      !this.textoValido(dto.titulo)
     ) {
-      throw new BadRequestException('Los campos enviados no son válidos');
+      throw new BadRequestException(
+        'titulo debe ser string no vacío',
+      );
+    }
+
+    if (
+      dto.descripcion !== undefined &&
+      !this.textoValido(dto.descripcion)
+    ) {
+      throw new BadRequestException(
+        'descripcion debe ser string no vacío',
+      );
+    }
+
+    if (
+      dto.imagen !== undefined &&
+      !this.textoValido(dto.imagen)
+    ) {
+      throw new BadRequestException(
+        'imagen debe ser string no vacío',
+      );
+    }
+
+    if (
+      dto.precio !== undefined &&
+      !this.precioValido(dto.precio)
+    ) {
+      throw new BadRequestException(
+        'precio debe ser un número mayor o igual a cero',
+      );
+    }
+
+    if (
+      dto.genero !== undefined &&
+      !this.textoValido(dto.genero)
+    ) {
+      throw new BadRequestException(
+        'genero debe ser string no vacío',
+      );
+    }
+
+    if (
+      dto.fechaPublicacion !== undefined &&
+      !this.textoValido(dto.fechaPublicacion)
+    ) {
+      throw new BadRequestException(
+        'fechaPublicacion debe ser string no vacío',
+      );
     }
   }
 
   private textoValido(valor: unknown): valor is string {
-    return typeof valor === 'string' && valor.trim().length > 0;
+    return (
+      typeof valor === 'string' &&
+      valor.trim().length > 0
+    );
   }
 
   private precioValido(valor: unknown): valor is number {
-    return typeof valor === 'number' && Number.isFinite(valor) && valor >= 0;
+    return (
+      typeof valor === 'number' &&
+      Number.isFinite(valor) &&
+      valor >= 0
+    );
   }
 }
