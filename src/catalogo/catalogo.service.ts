@@ -52,6 +52,8 @@ export class CatalogoService {
     juegoId: string,
     updateCatalogoDto: UpdateCatalogoDto,
   ): Catalogo {
+    this.validarUpdate(updateCatalogoDto);
+
     const juegos = this.leerJuegos();
     const indice = juegos.findIndex(
       (juego) => juego.id === juegoId,
@@ -60,8 +62,6 @@ export class CatalogoService {
     if (indice === -1) {
       throw new NotFoundException('Juego no encontrado');
     }
-
-    this.validarUpdate(updateCatalogoDto);
 
     const juego = juegos[indice];
 
@@ -167,7 +167,21 @@ export class CatalogoService {
     }
   }
 
+  private validarBody(dto: unknown): void {
+    if (
+      dto === null ||
+      typeof dto !== 'object' ||
+      Array.isArray(dto)
+    ) {
+      throw new BadRequestException(
+        'El body debe ser un objeto válido',
+      );
+    }
+  }
+
   private validarCreate(dto: CreateCatalogoDto): void {
+    this.validarBody(dto);
+
     if (!this.textoValido(dto.titulo)) {
       throw new BadRequestException(
         'titulo debe ser string no vacío',
@@ -212,6 +226,8 @@ export class CatalogoService {
   }
 
   private validarUpdate(dto: UpdateCatalogoDto): void {
+    this.validarBody(dto);
+
     const tieneCampoActualizable = [
       dto.titulo,
       dto.descripcion,
