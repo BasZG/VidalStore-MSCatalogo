@@ -38,6 +38,14 @@ describe('MSCatalogo (e2e)', () => {
       'utf8',
     );
 
+    /*
+ * Estos guards se reemplazan para aislar las pruebas
+ * funcionales y de persistencia del catálogo.
+ *
+ * La autenticación JWT y autorización reales se prueban
+ * en security.e2e-spec.ts.
+ */
+
     const guardPermitido = {
       canActivate: () => true,
     };
