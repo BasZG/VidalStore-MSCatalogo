@@ -1,0 +1,3746 @@
+[
+  {
+    "juegoId": "0ef157f4-f239-40c3-88a3-5e134c430ce4",
+    "titulo": "Overwatch",
+    "descripcion": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+    "imagen": "https://www.freetogame.com/g/540/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-10-04",
+    "precio": 29.8
+  },
+  {
+    "juegoId": "adf11a33-f0b9-4a81-a6ee-ac2f5d5ddf34",
+    "titulo": "PUBG: BATTLEGROUNDS",
+    "descripcion": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+    "imagen": "https://www.freetogame.com/g/516/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-01-12",
+    "precio": 20.92
+  },
+  {
+    "juegoId": "d914dc7b-ea30-4197-a779-57f75f1e6bf5",
+    "titulo": "Enlisted",
+    "descripcion": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ",
+    "imagen": "https://www.freetogame.com/g/508/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2021-04-08",
+    "precio": 17.96
+  },
+  {
+    "juegoId": "2b980f35-84e9-419f-b55e-0c80f07085f1",
+    "titulo": "World of Tanks: HEAT",
+    "descripcion": "A free-to-play hero-based shooter set in the World of Tanks universe.",
+    "imagen": "https://www.freetogame.com/g/644/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2026-05-26",
+    "precio": 18.28
+  },
+  {
+    "juegoId": "e569ca74-325c-48c7-80c4-1521602763e0",
+    "titulo": "Neverness to Everness",
+    "descripcion": "Neverness to Everness is a gacha game that blends some GTA-style play with team-based combat.",
+    "imagen": "https://www.freetogame.com/g/642/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2026-04-29",
+    "precio": 17.54
+  },
+  {
+    "juegoId": "5296a58b-4459-4062-b8a0-5e858c70eac7",
+    "titulo": "Throne And Liberty",
+    "descripcion": "A free-to-play multi-platorm MMORPG from NCSoft and Amazon Games.",
+    "imagen": "https://www.freetogame.com/g/590/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2024-10-01",
+    "precio": 23.3
+  },
+  {
+    "juegoId": "ff05e5a5-eed4-4dda-9102-c10af30baa1d",
+    "titulo": "Fall Guys",
+    "descripcion": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
+    "imagen": "https://www.freetogame.com/g/523/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2020-08-04",
+    "precio": 23.51
+  },
+  {
+    "juegoId": "978cfd34-16a6-417a-9f44-4ad69635339c",
+    "titulo": "Game Of Thrones Winter Is Coming",
+    "descripcion": "A free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series.",
+    "imagen": "https://www.freetogame.com/g/340/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-11-14",
+    "precio": 5.8
+  },
+  {
+    "juegoId": "1070b67f-469d-4dad-9878-6f991f6b4250",
+    "titulo": "Elvenar",
+    "descripcion": "A browser based city-building strategy MMO set in the fantasy world of Elvenar.",
+    "imagen": "https://www.freetogame.com/g/347/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-04-08",
+    "precio": 8.39
+  },
+  {
+    "juegoId": "33b98b29-5511-4cc7-b9ed-a3262b617d5b",
+    "titulo": "Neverwinter",
+    "descripcion": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
+    "imagen": "https://www.freetogame.com/g/11/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-12-06",
+    "precio": 9.07
+  },
+  {
+    "juegoId": "240f3f23-f1fb-4a04-a15a-dcc48ab96a57",
+    "titulo": "Lost Ark",
+    "descripcion": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+    "imagen": "https://www.freetogame.com/g/517/thumbnail.jpg",
+    "genero": "ARPG",
+    "fechaPublicacion": "2022-02-11",
+    "precio": 21.29
+  },
+  {
+    "juegoId": "f441154c-17a2-472b-8e40-2d944b5f2a96",
+    "titulo": "Genshin Impact",
+    "descripcion": "If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",
+    "imagen": "https://www.freetogame.com/g/475/thumbnail.jpg",
+    "genero": "Action RPG",
+    "fechaPublicacion": "2020-09-28",
+    "precio": 5.75
+  },
+  {
+    "juegoId": "1f352d73-a444-430e-849e-58c7e5fe138c",
+    "titulo": "Hero Wars: Dominion Era",
+    "descripcion": "A free-to-play fantasy MMORPG where players assemble teams of heroes to battle against powerful enemies.",
+    "imagen": "https://www.freetogame.com/g/620/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-10-01",
+    "precio": 9.4
+  },
+  {
+    "juegoId": "5b1ca6d5-4ccb-4931-a200-17f8fe3c8dd6",
+    "titulo": "World of Warships",
+    "descripcion": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
+    "imagen": "https://www.freetogame.com/g/9/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-07-02",
+    "precio": 8.33
+  },
+  {
+    "juegoId": "c0ce4eca-9b73-4f62-a0f8-4a70ce536df5",
+    "titulo": "World of Tanks",
+    "descripcion": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+    "imagen": "https://www.freetogame.com/g/2/thumbnail2.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2011-04-12",
+    "precio": 5.74
+  },
+  {
+    "juegoId": "45d160d9-c8f6-42c9-b420-85e672428178",
+    "titulo": "Crystal Saga Nova",
+    "descripcion": "A free-to-play fantasy MMORPG playable on browsers.",
+    "imagen": "https://www.freetogame.com/g/645/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2026-05-26",
+    "precio": 18.65
+  },
+  {
+    "juegoId": "0815045a-cdbc-4205-92e2-fd47b9db4b57",
+    "titulo": "World of Sea Battle",
+    "descripcion": "A free-to-play historical open-sea MMORPG.",
+    "imagen": "https://www.freetogame.com/g/628/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-10-21",
+    "precio": 12.36
+  },
+  {
+    "juegoId": "f084213a-dd15-44eb-968b-f0db1027be2b",
+    "titulo": "Diablo Immortal",
+    "descripcion": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+    "imagen": "https://www.freetogame.com/g/521/thumbnail.jpg",
+    "genero": "MMOARPG",
+    "fechaPublicacion": "2022-06-02",
+    "precio": 22.77
+  },
+  {
+    "juegoId": "badb837a-22cd-4a35-bce3-28420f5dfe79",
+    "titulo": "Phantasy Star Online 2 New Genesis",
+    "descripcion": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
+    "imagen": "https://www.freetogame.com/g/511/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2021-06-09",
+    "precio": 19.07
+  },
+  {
+    "juegoId": "ec170e9b-c4d0-4079-a34f-6b9db7b2cd9e",
+    "titulo": "Crossout",
+    "descripcion": "A post-apocalyptic MMO vehicle combat game! ",
+    "imagen": "https://www.freetogame.com/g/5/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-05-30",
+    "precio": 6.85
+  },
+  {
+    "juegoId": "ab4507bf-06f2-46e9-9b8c-0100b3d52160",
+    "titulo": "War Thunder",
+    "descripcion": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
+    "imagen": "https://www.freetogame.com/g/12/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2013-08-15",
+    "precio": 9.44
+  },
+  {
+    "juegoId": "ea2420fe-a255-47d7-9cf0-8be347f439df",
+    "titulo": "Ragnarok: The New World",
+    "descripcion": "An open-world entry in the Ragnarok IP.",
+    "imagen": "https://www.freetogame.com/g/648/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2026-07-27",
+    "precio": 19.76
+  },
+  {
+    "juegoId": "f4b943ea-bd1e-4b6d-bb31-b4294124466a",
+    "titulo": "Battlefield REDSEC",
+    "descripcion": "A free-to-play battle royale game built with Battlefield DNA.",
+    "imagen": "https://www.freetogame.com/g/624/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-10-28",
+    "precio": 10.88
+  },
+  {
+    "juegoId": "8cbfc8c6-1f82-4119-9122-0deed5f5e897",
+    "titulo": "Foundation: Galactic Frontier",
+    "descripcion": "Isaac Asimov’s series brought to life in a massive real-time strategy RPG featuring crew management and galactic warfare.",
+    "imagen": "https://www.freetogame.com/g/641/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2025-10-21",
+    "precio": 17.17
+  },
+  {
+    "juegoId": "1d770f34-7abe-4bc7-8f1a-a8bd6222ee58",
+    "titulo": "Marvel Rivals",
+    "descripcion": "A free-to-play superhero team shooter from NetEase.",
+    "imagen": "https://www.freetogame.com/g/599/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-12-06",
+    "precio": 26.63
+  },
+  {
+    "juegoId": "6ff815df-0b10-484d-a3ec-4ecea4fd068c",
+    "titulo": "Palia",
+    "descripcion": "A cozy MMO with homebuilding and some adventure.",
+    "imagen": "https://www.freetogame.com/g/560/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2023-08-10",
+    "precio": 12.2
+  },
+  {
+    "juegoId": "245d0a9b-c57c-448d-bb91-f71a8de583b8",
+    "titulo": "League of Angels - Heaven's Fury",
+    "descripcion": "A free-to-play, browser-based fantasy online action RPG based loosely on Western mythology!",
+    "imagen": "https://www.freetogame.com/g/458/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2020-01-09",
+    "precio": 24.46
+  },
+  {
+    "juegoId": "80c30a16-d9f1-4db2-8c51-db77301eac67",
+    "titulo": "Forge of Empires",
+    "descripcion": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+    "imagen": "https://www.freetogame.com/g/345/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-04-17",
+    "precio": 7.65
+  },
+  {
+    "juegoId": "7ec28801-66bf-4e48-bb30-d019da2b3e92",
+    "titulo": "Star Trek Online",
+    "descripcion": "A free-to-play, 3D, Sci-Fi MMORPG based on the popular Star Trek series.",
+    "imagen": "https://www.freetogame.com/g/14/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2010-02-02",
+    "precio": 10.18
+  },
+  {
+    "juegoId": "05c05e28-236f-41a7-9e2e-2a74847dc652",
+    "titulo": "Where Winds Meet",
+    "descripcion": "A free-to-play open-world ARPG set in tenth-century China.",
+    "imagen": "https://www.freetogame.com/g/626/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2025-11-14",
+    "precio": 11.62
+  },
+  {
+    "juegoId": "aeffb63e-7ca7-441c-a26a-5abd5e02634d",
+    "titulo": "Brighter Shores",
+    "descripcion": "A point-and-click MMORPG from RuneScape's creator, Andrew Gower.",
+    "imagen": "https://www.freetogame.com/g/595/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2024-11-06",
+    "precio": 25.15
+  },
+  {
+    "juegoId": "eaf11dca-07e6-49e8-bb85-dbf721f27f22",
+    "titulo": "Halo Infinite",
+    "descripcion": "For the first time ever, a free-to-play Halo experience is available in the form of Halo Infinite’s multiplayer.",
+    "imagen": "https://www.freetogame.com/g/515/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2021-11-15",
+    "precio": 20.55
+  },
+  {
+    "juegoId": "ac8b33f4-457a-4313-be31-ff93a9e8ab2a",
+    "titulo": "Valorant",
+    "descripcion": "Test your mettle in Riot Games’ character-based FPS shooter Valorant.",
+    "imagen": "https://www.freetogame.com/g/466/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2020-06-02",
+    "precio": 27.42
+  },
+  {
+    "juegoId": "8d6ac030-1d8a-498d-98f3-5f94a5391131",
+    "titulo": "Phantasy Star Online 2",
+    "descripcion": "Welcome to ARKS, and elite task force searching dangerous planets for the corrupted Falspawn in Phantasy Star 2 Online, Sega’s popular, free-to-play sci-fi MMORPG.",
+    "imagen": "https://www.freetogame.com/g/467/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2020-05-27",
+    "precio": 27.79
+  },
+  {
+    "juegoId": "322c341c-50db-416a-af67-23f5d0c68378",
+    "titulo": "Call of Duty: Warzone",
+    "descripcion": "A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.",
+    "imagen": "https://www.freetogame.com/g/452/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2020-03-10",
+    "precio": 22.24
+  },
+  {
+    "juegoId": "1d2ebd53-18f7-495f-b0e0-4a6691623fe0",
+    "titulo": "Destiny 2",
+    "descripcion": "A free-to-play multiplayer Sci-Fi MMOFPS from Bungie.",
+    "imagen": "https://www.freetogame.com/g/21/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2019-10-01",
+    "precio": 12.77
+  },
+  {
+    "juegoId": "e8dbbf4b-fffd-479d-b1ab-f0fcb83101eb",
+    "titulo": "Apex Legends",
+    "descripcion": "A free-to-play strategic battle royale game featuring 60-player matches and team-based play. ",
+    "imagen": "https://www.freetogame.com/g/23/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2019-02-04",
+    "precio": 13.51
+  },
+  {
+    "juegoId": "838ded38-6551-400b-97c9-3258549fcd93",
+    "titulo": "Fortnite",
+    "descripcion": "A free-to-play, standalone mode of Epic Game's Fortnite. ",
+    "imagen": "https://www.freetogame.com/g/57/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-09-26",
+    "precio": 26.09
+  },
+  {
+    "juegoId": "24cabf29-f9e5-42ea-a96a-424265279661",
+    "titulo": "Blade and Soul",
+    "descripcion": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks.",
+    "imagen": "https://www.freetogame.com/g/6/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-01-19",
+    "precio": 7.22
+  },
+  {
+    "juegoId": "91be2c71-0dcb-4820-9d93-ed57689e272f",
+    "titulo": "Brawlhalla",
+    "descripcion": "A free-to-play 2D platform fighter inspired by the Smash Bros.",
+    "imagen": "https://www.freetogame.com/g/212/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2015-11-03",
+    "precio": 8.44
+  },
+  {
+    "juegoId": "2f151d57-9d4a-499c-8427-e6985ba71b64",
+    "titulo": "Trove",
+    "descripcion": "A free to play Sandbox massively multiplayer online role-playing game! ",
+    "imagen": "https://www.freetogame.com/g/8/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-07-09",
+    "precio": 7.96
+  },
+  {
+    "juegoId": "d9ee86ae-ced7-4d64-876a-5745025614ca",
+    "titulo": "Guild Wars 2",
+    "descripcion": "A free-to-play MMORPG, the follow-up to ArenaNet's popular Guild Wars. ",
+    "imagen": "https://www.freetogame.com/g/13/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-08-28",
+    "precio": 9.81
+  },
+  {
+    "juegoId": "88cb7544-52d5-46a4-b8ff-26c8ec344ab2",
+    "titulo": "Goodgame Empire",
+    "descripcion": "A free to play medieval strategy browser game. Build you own castle and create a powerful army! ",
+    "imagen": "https://www.freetogame.com/g/350/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2011-08-14",
+    "precio": 9.5
+  },
+  {
+    "juegoId": "d50adde5-61e8-4685-bb5c-860e65a43757",
+    "titulo": "RuneScape",
+    "descripcion": "A popular 3D browser MMORPG boasting a huge player base and 15 years of content.",
+    "imagen": "https://www.freetogame.com/g/433/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2001-01-04",
+    "precio": 15.21
+  },
+  {
+    "juegoId": "a8e22939-0196-427c-8fdb-51b312be0e2d",
+    "titulo": "Tibia",
+    "descripcion": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
+    "imagen": "https://www.freetogame.com/g/339/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "1997-01-07",
+    "precio": 5.43
+  },
+  {
+    "juegoId": "e02053da-af1a-4a46-aabb-d98388e7bdd5",
+    "titulo": "Arknights: Endfield",
+    "descripcion": "A free-to-play RTS RPG gacha game.",
+    "imagen": "https://www.freetogame.com/g/636/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2026-01-21",
+    "precio": 15.32
+  },
+  {
+    "juegoId": "b510f62c-a982-4e38-865c-1e283a5379f0",
+    "titulo": "Wuthering Waves",
+    "descripcion": "A free-to-play action RPG with gacha elements.",
+    "imagen": "https://www.freetogame.com/g/629/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2024-05-22",
+    "precio": 12.73
+  },
+  {
+    "juegoId": "ee8c20f7-b597-481b-bfb1-c5856744b4e8",
+    "titulo": "Naraka: Bladepoint",
+    "descripcion": "A free-to-play melee focused battle royale.",
+    "imagen": "https://www.freetogame.com/g/556/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2023-07-13",
+    "precio": 10.72
+  },
+  {
+    "juegoId": "7e4c1295-6f1b-4901-af43-283d5e4f1127",
+    "titulo": "Honkai: Star Rail",
+    "descripcion": "A free-to-play sci-fantasy game from HoYoVerse",
+    "imagen": "https://www.freetogame.com/g/605/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2023-04-26",
+    "precio": 28.85
+  },
+  {
+    "juegoId": "90103925-95c7-4383-81bf-a609a93237f8",
+    "titulo": "Tyr",
+    "descripcion": "A free-to-play tank shooter with customizable skill trees.",
+    "imagen": "https://www.freetogame.com/g/650/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2026-09-02",
+    "precio": 20.5
+  },
+  {
+    "juegoId": "0e1561b5-c39a-4ca3-b220-4b1840aa9a0a",
+    "titulo": "Soul's Remnant",
+    "descripcion": "An indie 2D Side Scroller MMORPG.",
+    "imagen": "https://www.freetogame.com/g/649/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2026-08-13",
+    "precio": 20.13
+  },
+  {
+    "juegoId": "edd05b3e-369e-4aca-9c99-c27f0bcea81d",
+    "titulo": "Gloria Victis",
+    "descripcion": "A free-to-play low-fantasy medieval MMORPG.",
+    "imagen": "https://www.freetogame.com/g/646/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2026-06-17",
+    "precio": 19.02
+  },
+  {
+    "juegoId": "dcf71105-b9d8-4f42-89f8-b5c011c6c026",
+    "titulo": "RF Online Next",
+    "descripcion": "A free-to-play sci-fi PvP MMORPG.",
+    "imagen": "https://www.freetogame.com/g/647/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2026-06-15",
+    "precio": 19.39
+  },
+  {
+    "juegoId": "495ac605-fe85-44b6-a3b1-e0fa203c662e",
+    "titulo": "The Division Resurgence",
+    "descripcion": "A free-to-play open-world shooter set in The Division universe.",
+    "imagen": "https://www.freetogame.com/g/643/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2026-04-29",
+    "precio": 17.91
+  },
+  {
+    "juegoId": "8d275b6c-f659-4d38-a12c-8f7918b91d87",
+    "titulo": "The Seven Deadly Sins: Origin",
+    "descripcion": "A free-to-play action RPG based on the manga and anime.",
+    "imagen": "https://www.freetogame.com/g/639/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2026-03-16",
+    "precio": 16.43
+  },
+  {
+    "juegoId": "709c3a59-6d40-4abc-be13-29e7615c160b",
+    "titulo": "Heartopia",
+    "descripcion": "A free-to-play life simulation game for multiple players.",
+    "imagen": "https://www.freetogame.com/g/635/thumbnail.jpg",
+    "genero": "Social",
+    "fechaPublicacion": "2026-01-16",
+    "precio": 14.95
+  },
+  {
+    "juegoId": "5b8673a6-4d46-48a0-9c08-a08f60529d34",
+    "titulo": "Reign of Guilds",
+    "descripcion": "An open-world MMORPG inspired by old-school games like Ultima Online and EverQuest",
+    "imagen": "https://www.freetogame.com/g/631/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-11-26",
+    "precio": 13.47
+  },
+  {
+    "juegoId": "1c9da459-24dc-414b-8e26-a6f99620c5c2",
+    "titulo": "2XKO",
+    "descripcion": "A free-to-play 2v2 fighting game set in the League of Legends universe.",
+    "imagen": "https://www.freetogame.com/g/621/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2025-10-07",
+    "precio": 9.77
+  },
+  {
+    "juegoId": "a4b07d55-d034-4c9f-a0b4-3365670166b4",
+    "titulo": "Blue Protocol: Star Resonance",
+    "descripcion": "A free-to-play open-world anime MMORPG. ",
+    "imagen": "https://www.freetogame.com/g/622/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-10-09",
+    "precio": 10.14
+  },
+  {
+    "juegoId": "c8154393-fd07-45b2-b54d-7ff403dff2ce",
+    "titulo": "Raven2",
+    "descripcion": "A free-to-play open-world MMORPG.",
+    "imagen": "https://www.freetogame.com/g/623/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-10-22",
+    "precio": 10.51
+  },
+  {
+    "juegoId": "1660f587-f92a-4fee-a1fd-19f04dc827a6",
+    "titulo": "Superball",
+    "descripcion": "A free-to-play futuristic sports game.",
+    "imagen": "https://www.freetogame.com/g/625/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2025-10-28",
+    "precio": 11.25
+  },
+  {
+    "juegoId": "c0f1c6fa-d6bd-470a-b4db-83fc56c17223",
+    "titulo": "Arena Breakout: Infinite",
+    "descripcion": "A free-to-play tactical extraction shooter.",
+    "imagen": "https://www.freetogame.com/g/615/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-09-16",
+    "precio": 7.55
+  },
+  {
+    "juegoId": "0f1895c8-29c0-438e-b25a-4e352497c911",
+    "titulo": "Warborne Above Ashes",
+    "descripcion": "A free-to-play PvP-centric MMO.",
+    "imagen": "https://www.freetogame.com/g/616/thumbnail.jpg",
+    "genero": "MMO",
+    "fechaPublicacion": "2025-09-19",
+    "precio": 7.92
+  },
+  {
+    "juegoId": "266cd4df-b82c-47bb-8759-6207dca11b5e",
+    "titulo": "Eterspire",
+    "descripcion": "A free-to-play, cross-platform MMORPG.",
+    "imagen": "https://www.freetogame.com/g/617/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-09-15",
+    "precio": 8.29
+  },
+  {
+    "juegoId": "08d6e614-8c5e-45cc-97ec-07d47bd6617c",
+    "titulo": "skate.",
+    "descripcion": "The latest, free-to-play, entry in the Skate franchise.",
+    "imagen": "https://www.freetogame.com/g/618/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2025-09-16",
+    "precio": 8.66
+  },
+  {
+    "juegoId": "9d740db0-491d-4027-a284-6457f84046eb",
+    "titulo": "Blade & Soul Heroes",
+    "descripcion": "A free-to-play collectible action MMORPG set in the Blade & Soul universe.",
+    "imagen": "https://www.freetogame.com/g/619/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-09-24",
+    "precio": 9.03
+  },
+  {
+    "juegoId": "3cc11d4d-fbf9-41fd-9581-be998689e980",
+    "titulo": "Dragon Ball Gekishin Squadra",
+    "descripcion": "A free-to-play MOBA featuring all your favorite Dragon Ball characters.",
+    "imagen": "https://www.freetogame.com/g/632/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2025-09-09",
+    "precio": 13.84
+  },
+  {
+    "juegoId": "e25be814-417c-4078-9c29-3084dfd4e31e",
+    "titulo": "Dfiance",
+    "descripcion": "A free-to-play tactical card game.",
+    "imagen": "https://www.freetogame.com/g/613/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2025-08-04",
+    "precio": 6.81
+  },
+  {
+    "juegoId": "273f4fc1-c950-47c3-836b-da7982cd36c1",
+    "titulo": "Dungeon Stalker",
+    "descripcion": "A free-to-play dungeon crawler with survival elements.",
+    "imagen": "https://www.freetogame.com/g/614/thumbnail.jpg",
+    "genero": "Dungeon Crawler",
+    "fechaPublicacion": "2025-08-13",
+    "precio": 7.18
+  },
+  {
+    "juegoId": "ccce2e60-f0c7-45d0-af8d-a72b9a5be19a",
+    "titulo": "Mecha BREAK",
+    "descripcion": "A team-based third-person shooter featuring mechs.",
+    "imagen": "https://www.freetogame.com/g/611/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-07-01",
+    "precio": 6.07
+  },
+  {
+    "juegoId": "11c9c118-036e-40f4-b131-34d25a70126d",
+    "titulo": "Terminull Brigade",
+    "descripcion": "A free-to-play third-person looter-shooter with customizable characters.",
+    "imagen": "https://www.freetogame.com/g/612/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-07-29",
+    "precio": 6.44
+  },
+  {
+    "juegoId": "1c9a947f-81cf-4ef8-b8ca-ca69d9be11d5",
+    "titulo": "Umamusume: Pretty Derby",
+    "descripcion": "A free-to-play gacha-style sports game featuring racing horse-girls.",
+    "imagen": "https://www.freetogame.com/g/633/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2025-06-24",
+    "precio": 14.21
+  },
+  {
+    "juegoId": "7d80f8fd-4072-4c9b-acb6-a08958c24288",
+    "titulo": "Crystal Of Atlan",
+    "descripcion": "A magicpunk MMORPG from Nuverse.",
+    "imagen": "https://www.freetogame.com/g/609/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-05-26",
+    "precio": 5.33
+  },
+  {
+    "juegoId": "551ea04e-2634-4ee5-8b4c-79a632a19143",
+    "titulo": "Splitgate: Arena Reloaded",
+    "descripcion": "A free-to-play shooter using portals.",
+    "imagen": "https://www.freetogame.com/g/610/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-05-22",
+    "precio": 5.7
+  },
+  {
+    "juegoId": "15a9d546-1a68-41e9-a919-e76f064ba883",
+    "titulo": "Steel Hunters",
+    "descripcion": "A post-apocalyptic extraction shooter with giant mechs.",
+    "imagen": "https://www.freetogame.com/g/606/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-04-02",
+    "precio": 29.22
+  },
+  {
+    "juegoId": "4b6ae393-8597-4955-866c-c5dc5d55f60f",
+    "titulo": "The Lost Glitches",
+    "descripcion": "A cyberpunk RPG trading card game from Honig Studios.",
+    "imagen": "https://www.freetogame.com/g/607/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2025-04-29",
+    "precio": 29.59
+  },
+  {
+    "juegoId": "2ccdbc77-beda-4bd3-ad19-f12c64f6c5e3",
+    "titulo": "Odin: Valhalla Rising",
+    "descripcion": "An open-world MMORPG based on Norse mythology.",
+    "imagen": "https://www.freetogame.com/g/608/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2025-04-29",
+    "precio": 29.96
+  },
+  {
+    "juegoId": "0c8cfcbd-a1c4-4b83-97b1-27a003414b0d",
+    "titulo": "War Robots: Frontiers",
+    "descripcion": "A multiplayer mech game set in a planetary system light years from Earth.",
+    "imagen": "https://www.freetogame.com/g/603/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-03-04",
+    "precio": 28.11
+  },
+  {
+    "juegoId": "d659c4f4-a4bf-4a71-9528-a2d08fe2fce5",
+    "titulo": "FragPunk",
+    "descripcion": "A free-to-play 5v5 hero shooter that uses cards to modify matches.",
+    "imagen": "https://www.freetogame.com/g/604/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2025-03-06",
+    "precio": 28.48
+  },
+  {
+    "juegoId": "19794440-0da0-4b73-a1e2-752680d2df90",
+    "titulo": "Delta Force",
+    "descripcion": "A free-to-play team-based tactical shooter.",
+    "imagen": "https://www.freetogame.com/g/601/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-12-04",
+    "precio": 27.37
+  },
+  {
+    "juegoId": "f11d17ab-642e-489c-98cd-37d634d06361",
+    "titulo": "Strinova",
+    "descripcion": "A third-person tactical shooter that features the unique mechanic of allowing players to switch between three-dimensional and two-dimensional forms.",
+    "imagen": "https://www.freetogame.com/g/597/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-11-21",
+    "precio": 25.89
+  },
+  {
+    "juegoId": "e27f57e4-c9ee-41ab-a9d1-315c8c6c7f12",
+    "titulo": "SUPERVIVE",
+    "descripcion": "Combine MOBAs, battle royales, and hero shooters into one fast paced game hand you have SUPERVIVE.",
+    "imagen": "https://www.freetogame.com/g/598/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2024-11-20",
+    "precio": 26.26
+  },
+  {
+    "juegoId": "86ca1df4-521c-4fe1-907c-dd2e50fba37a",
+    "titulo": "Starborne: Frontiers",
+    "descripcion": "A tactical autobattler set 400 years in the future.",
+    "imagen": "https://www.freetogame.com/g/592/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2024-10-14",
+    "precio": 24.04
+  },
+  {
+    "juegoId": "a02f970d-6c2a-4199-9d0a-2a517c6d4d7c",
+    "titulo": "Return Alive",
+    "descripcion": "A free-to-play top-down tactical shooter.",
+    "imagen": "https://www.freetogame.com/g/593/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-10-23",
+    "precio": 24.41
+  },
+  {
+    "juegoId": "7e726144-f382-4975-b404-a01b2c2196a3",
+    "titulo": "Spectre Divide",
+    "descripcion": "A 3v3 tactical shooter developed and published by Mountaintop Studios in partnership with former pro gamer shroud,",
+    "imagen": "https://www.freetogame.com/g/587/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-09-03",
+    "precio": 22.19
+  },
+  {
+    "juegoId": "b9d8d04f-1806-4bdf-9b3f-e2f00c0461ac",
+    "titulo": "Vigor",
+    "descripcion": "A free-to-play looter shooter from the developers of Operation Flashpoint and the Arma series.",
+    "imagen": "https://www.freetogame.com/g/588/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-09-18",
+    "precio": 22.56
+  },
+  {
+    "juegoId": "3add84e1-1474-465d-873c-881db0e93252",
+    "titulo": "Smite 2",
+    "descripcion": "The free-to-play Unreal Engine 5-powered sequel to the popular third-person MOBA",
+    "imagen": "https://www.freetogame.com/g/602/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2024-08-27",
+    "precio": 27.74
+  },
+  {
+    "juegoId": "b38ae8c8-e527-47ce-8adb-8587806274ee",
+    "titulo": "The First Descendant",
+    "descripcion": "A free-to-play third-person co-op looter shooter developed and published by Nexon.",
+    "imagen": "https://www.freetogame.com/g/583/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-07-02",
+    "precio": 20.71
+  },
+  {
+    "juegoId": "480205df-6fcc-46f7-a25a-d96427e444ff",
+    "titulo": "Once Human",
+    "descripcion": "A post-apocalyptic open-world survival game from Starry Studio.",
+    "imagen": "https://www.freetogame.com/g/584/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-07-09",
+    "precio": 21.08
+  },
+  {
+    "juegoId": "69d7b687-424d-49aa-8c06-8b2cb8f7b412",
+    "titulo": "Stormgate",
+    "descripcion": "A free-to-play science fantasy real-time strategy game in which humans and robots defend Earth from alien forces.",
+    "imagen": "https://www.freetogame.com/g/586/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2024-07-30",
+    "precio": 21.82
+  },
+  {
+    "juegoId": "f9a00365-5462-4fc2-a86e-cde5391a487c",
+    "titulo": "Zenless Zone Zero",
+    "descripcion": "A free-to-play gacha-style ARPG in a post-apocalyptic urban setting.",
+    "imagen": "https://www.freetogame.com/g/634/thumbnail.jpg",
+    "genero": "ARPG",
+    "fechaPublicacion": "2024-07-04",
+    "precio": 14.58
+  },
+  {
+    "juegoId": "9521a873-8648-47ef-b7e8-8fa6892213d0",
+    "titulo": "Battle Crush",
+    "descripcion": "An action brawler for up to 30 players.",
+    "imagen": "https://www.freetogame.com/g/591/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2024-06-27",
+    "precio": 23.67
+  },
+  {
+    "juegoId": "e4aa2916-2a90-4326-88b8-be85e538e100",
+    "titulo": "Screenplay CCG",
+    "descripcion": "A collectible card game inspired by movie making.",
+    "imagen": "https://www.freetogame.com/g/580/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2024-05-13",
+    "precio": 19.6
+  },
+  {
+    "juegoId": "92f88d4c-3491-4a17-9ae4-bb147c8c8527",
+    "titulo": "SolForge Fusion",
+    "descripcion": "A card-battling game in which each card levels up and becomes more powerful.",
+    "imagen": "https://www.freetogame.com/g/585/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2024-04-16",
+    "precio": 21.45
+  },
+  {
+    "juegoId": "1925d759-61b6-41d0-9581-c4f274c89d16",
+    "titulo": "Sky: Children of the Light",
+    "descripcion": "A cozy free-to-play MMORPG from thatgamecompany.",
+    "imagen": "https://www.freetogame.com/g/589/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2024-04-10",
+    "precio": 22.93
+  },
+  {
+    "juegoId": "0ca714ea-410b-4051-a2dd-a2da0134a7ec",
+    "titulo": "Project Entropy",
+    "descripcion": "Project Entropy drops you into a living sci-fi MMO universe!",
+    "imagen": "https://www.freetogame.com/g/640/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2024-04-17",
+    "precio": 16.8
+  },
+  {
+    "juegoId": "8d384888-aa34-4998-87df-08ad9a06d561",
+    "titulo": "Predecessor",
+    "descripcion": "A free-to-play MOBA shooter developed and published by Omeda Studios.",
+    "imagen": "https://www.freetogame.com/g/578/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2024-03-28",
+    "precio": 18.86
+  },
+  {
+    "juegoId": "e8ac224a-7822-4d0c-b832-1f8c603edb57",
+    "titulo": "Project Apidom",
+    "descripcion": "A free-to-play apocalyptic extraction RPG with MOBA-like combat.",
+    "imagen": "https://www.freetogame.com/g/579/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2024-03-29",
+    "precio": 19.23
+  },
+  {
+    "juegoId": "4f79e098-8050-4aec-9ad7-3d0f275340e7",
+    "titulo": "RAID: Shadow Legends",
+    "descripcion": "RAID: Shadow Legends is a free-to-play turn-based fantasy RPG with hundreds of champions and several game modes.",
+    "imagen": "https://www.freetogame.com/g/46/thumbnail.jpg",
+    "genero": "RPG",
+    "fechaPublicacion": "2024-01-09",
+    "precio": 22.02
+  },
+  {
+    "juegoId": "c9dc0974-be52-4eb4-a0d0-39aa864452ca",
+    "titulo": "Ravendawn",
+    "descripcion": "A 2D top-down MMORPG featuring homesteading and building mechanics.",
+    "imagen": "https://www.freetogame.com/g/572/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2024-01-16",
+    "precio": 16.64
+  },
+  {
+    "juegoId": "1c8313e7-f773-42e5-915a-bea9147151f5",
+    "titulo": "One Punch Man: World",
+    "descripcion": "A free-to-play multiplayer 3D action game from Crunchyroll Games.",
+    "imagen": "https://www.freetogame.com/g/575/thumbnail.jpg",
+    "genero": "Action Game",
+    "fechaPublicacion": "2024-01-31",
+    "precio": 17.75
+  },
+  {
+    "juegoId": "ffc8b656-f219-4771-93ff-52ef1ad5325f",
+    "titulo": "Battle Teams 2",
+    "descripcion": "A multiplayer tactical shooter with an Eastern aesthetic.",
+    "imagen": "https://www.freetogame.com/g/576/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2024-01-31",
+    "precio": 18.12
+  },
+  {
+    "juegoId": "5e36077f-1ffa-43a7-9dfb-c571b7d9a8db",
+    "titulo": "The Finals",
+    "descripcion": "A game-show style PvP shooter from Embark Studios.",
+    "imagen": "https://www.freetogame.com/g/570/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2023-12-07",
+    "precio": 15.9
+  },
+  {
+    "juegoId": "bc585fc8-4f6a-48d7-be95-560e4cf269cc",
+    "titulo": "Infinite Borders",
+    "descripcion": "A free-to-play strategy game from NetEase set during China’s Three Kingdoms period.",
+    "imagen": "https://www.freetogame.com/g/571/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2023-12-22",
+    "precio": 16.27
+  },
+  {
+    "juegoId": "ef19b1c8-796f-4902-bb78-39c9647b166c",
+    "titulo": "Titan Revenge",
+    "descripcion": "A 3D Norse-themed browser MMORPG developed and published by Game Hollywood Games",
+    "imagen": "https://www.freetogame.com/g/573/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2023-12-20",
+    "precio": 17.01
+  },
+  {
+    "juegoId": "841a209a-7355-404c-93a0-6db168f6ecdc",
+    "titulo": "Destiny's Divide",
+    "descripcion": "Free-to-play PvP Fantasy Card Game for competitive card game players.",
+    "imagen": "https://www.freetogame.com/g/569/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2023-11-03",
+    "precio": 15.53
+  },
+  {
+    "juegoId": "025b0610-3a96-4c1a-9a17-d456eeffa0b6",
+    "titulo": "Warhammer 40,000: Warpforge",
+    "descripcion": "A free-to-play CCG set in the Warhammer 40K universe.",
+    "imagen": "https://www.freetogame.com/g/568/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2023-10-19",
+    "precio": 15.16
+  },
+  {
+    "juegoId": "4d1e9c27-8f2a-4453-806f-53fe00b08b3f",
+    "titulo": "Microvolts: Recharged",
+    "descripcion": "A lobby-based third-person shooter with a toy-theme.",
+    "imagen": "https://www.freetogame.com/g/567/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2023-09-08",
+    "precio": 14.79
+  },
+  {
+    "juegoId": "0150fc47-5587-4417-8ce4-9ff001e6b866",
+    "titulo": "Deceit 2",
+    "descripcion": "A social deduction game from World Makers.",
+    "imagen": "https://www.freetogame.com/g/577/thumbnail.jpg",
+    "genero": "Action",
+    "fechaPublicacion": "2023-09-14",
+    "precio": 18.49
+  },
+  {
+    "juegoId": "726000a0-fca2-41ae-85f4-10fe3893279a",
+    "titulo": "My Hero Ultra Rumble",
+    "descripcion": "A free-to-play 24-person battle royale based on My Hero Academia.",
+    "imagen": "https://www.freetogame.com/g/630/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2023-09-28",
+    "precio": 13.1
+  },
+  {
+    "juegoId": "9901f8b1-dab9-4357-bcd9-1ff178d182ab",
+    "titulo": "Hawked",
+    "descripcion": "A free-to-play PvPvE treasure hunting shooter.",
+    "imagen": "https://www.freetogame.com/g/558/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2023-08-03",
+    "precio": 11.46
+  },
+  {
+    "juegoId": "fe5beb0b-6fd6-4299-8a3d-697f79fdb342",
+    "titulo": "Tales Of Yore",
+    "descripcion": "A 2D MMORPG with lots of RPG tropes.",
+    "imagen": "https://www.freetogame.com/g/559/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2023-08-08",
+    "precio": 11.83
+  },
+  {
+    "juegoId": "d086b87e-bb6a-4443-91bd-7188f1527f97",
+    "titulo": "Waven",
+    "descripcion": "A free-to-play online tactical RPG from Ankama.",
+    "imagen": "https://www.freetogame.com/g/562/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2023-08-16",
+    "precio": 12.94
+  },
+  {
+    "juegoId": "ed9986ce-bc69-456e-abeb-1dc4d8985981",
+    "titulo": "Town of Salem 2",
+    "descripcion": "A deduction game set in Salem.",
+    "imagen": "https://www.freetogame.com/g/566/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2023-08-25",
+    "precio": 14.42
+  },
+  {
+    "juegoId": "f3367133-f8d6-4430-b789-c4f37d017964",
+    "titulo": "Undawn",
+    "descripcion": "A free-to-play open-world survival RPG developed by LightSpeed studios and published by Level Infinite.",
+    "imagen": "https://www.freetogame.com/g/554/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2023-06-15",
+    "precio": 9.98
+  },
+  {
+    "juegoId": "d0dfc766-d37d-45da-92f2-5c3e70488992",
+    "titulo": "Eden Eternal",
+    "descripcion": "A free to play fantasy MMORPG with cute anime-inspired graphics.",
+    "imagen": "https://www.freetogame.com/g/268/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2023-05-10",
+    "precio": 29.16
+  },
+  {
+    "juegoId": "ebf208d0-3f85-4e10-9dfb-c25282edca40",
+    "titulo": "Veiled Experts",
+    "descripcion": "A free-to-play multiplayer shooter game focused on the search and destroy mode of classic shooters.",
+    "imagen": "https://www.freetogame.com/g/551/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2023-05-18",
+    "precio": 8.87
+  },
+  {
+    "juegoId": "9b25a0d1-de09-48b2-b80a-80a82d8c5b7b",
+    "titulo": "Jected - Rivals",
+    "descripcion": "A free-to-play game mixing extreme sports with destructible vehicles and a unique ejection mechanic.",
+    "imagen": "https://www.freetogame.com/g/552/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2023-05-04",
+    "precio": 9.24
+  },
+  {
+    "juegoId": "ad52f028-0a97-484c-a6d1-fbb73b610e22",
+    "titulo": "Ethyrial: Echoes of Yore",
+    "descripcion": "A old-school MMORPG set in a world on the brink of Civil War",
+    "imagen": "https://www.freetogame.com/g/557/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2023-05-01",
+    "precio": 11.09
+  },
+  {
+    "juegoId": "9cea1262-2640-480b-900f-7f1441a81f3e",
+    "titulo": "Stalcraft: X",
+    "descripcion": "A free-to-play MMOFPS set in an open-world.",
+    "imagen": "https://www.freetogame.com/g/594/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-12-09",
+    "precio": 24.78
+  },
+  {
+    "juegoId": "a99229d5-aec7-4044-8aaf-07f1071a0b82",
+    "titulo": "Fangs",
+    "descripcion": "A 4v4 MOBA with hero-specific strategies.",
+    "imagen": "https://www.freetogame.com/g/545/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2022-11-30",
+    "precio": 6.65
+  },
+  {
+    "juegoId": "9488e1bd-7fa9-42af-87f4-b950c7c6ccb2",
+    "titulo": "Summoners War: Chronicles",
+    "descripcion": "A multi-platform ARPG set in the Summoners War universe.",
+    "imagen": "https://www.freetogame.com/g/549/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2022-11-09",
+    "precio": 8.13
+  },
+  {
+    "juegoId": "4a7ff697-f164-409d-bfce-b2e228136f32",
+    "titulo": "Marvel Snap",
+    "descripcion": "A fast paced strategy card game set in the Marvel universe.",
+    "imagen": "https://www.freetogame.com/g/541/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2022-10-18",
+    "precio": 5.17
+  },
+  {
+    "juegoId": "63bc3c73-c533-4763-a300-56027b8d94ec",
+    "titulo": "World Boss",
+    "descripcion": "An experimental FPS based on io and roguelike gameplay.",
+    "imagen": "https://www.freetogame.com/g/542/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-10-19",
+    "precio": 5.54
+  },
+  {
+    "juegoId": "8c013b0c-e365-444b-84ec-a3d8198ed1ed",
+    "titulo": "Omega Strikers",
+    "descripcion": "A 3v3 socccer-style game with knockouts.",
+    "imagen": "https://www.freetogame.com/g/536/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2022-09-16",
+    "precio": 28.32
+  },
+  {
+    "juegoId": "6d0075ed-4016-402a-8b7b-5703de3d6ad0",
+    "titulo": "Gundam Evolution",
+    "descripcion": "A 6v6 team-based shooter based on the Gundam multiverse",
+    "imagen": "https://www.freetogame.com/g/537/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-09-21",
+    "precio": 28.69
+  },
+  {
+    "juegoId": "e426fa33-f693-413b-b088-ad218537bf13",
+    "titulo": "Aero Tales Online",
+    "descripcion": "Aero Tales Online: The World is a free-to-play 3D anime-style MMORPG with PvP and PvE elements. The game revolves around the “mysterious story of the Key of Skylight”.",
+    "imagen": "https://www.freetogame.com/g/527/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2022-08-01",
+    "precio": 24.99
+  },
+  {
+    "juegoId": "4b204453-4cac-4aa3-8785-8156ead4506d",
+    "titulo": "Tower of Fantasy",
+    "descripcion": "Tower of Fantasy is a 3D open-world RPG, anime-style sci-fi MMO RPG game with unique characters and beautiful open vistas!",
+    "imagen": "https://www.freetogame.com/g/529/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2022-08-10",
+    "precio": 25.73
+  },
+  {
+    "juegoId": "43596b9d-c8a1-4f77-9152-b0f882c0df0d",
+    "titulo": "Magic Spellslingers",
+    "descripcion": "Magic Spellslingers is the latest entry based on Witzards of the Coast’s popular card game Magic: The Gathering.",
+    "imagen": "https://www.freetogame.com/g/531/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2022-08-05",
+    "precio": 26.47
+  },
+  {
+    "juegoId": "7a8356f4-16f1-4e1d-9263-92ca1078a720",
+    "titulo": "A.V.A Global",
+    "descripcion": "A.V.A is a free-to-play online first-person shooter with multiple game modes, unique customizations, as well as PvP and PvE gameplay.",
+    "imagen": "https://www.freetogame.com/g/533/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-08-24",
+    "precio": 27.21
+  },
+  {
+    "juegoId": "ae39a656-666b-49c5-b7bf-883d087ba911",
+    "titulo": "Lost Light",
+    "descripcion": "A post-apocalyptic shooter built around creating a realistic experience.",
+    "imagen": "https://www.freetogame.com/g/534/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2022-08-04",
+    "precio": 27.58
+  },
+  {
+    "juegoId": "83f12c06-0b15-40d6-bdaf-135b6b0f8d26",
+    "titulo": "Temperia: Soul of Majestic",
+    "descripcion": "Fans of collectible card games, are you looking for something a bit different from the normal fare? Then a peek at Moonwolf Entertainment and A2 Softworks’ Temperia: Soul of Majestic might be in order.",
+    "imagen": "https://www.freetogame.com/g/524/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2022-07-26",
+    "precio": 23.88
+  },
+  {
+    "juegoId": "26eb9413-b2fe-482f-b6a9-6df343553a68",
+    "titulo": "Flyff Universe",
+    "descripcion": "Get the full Flyff experience on any platform with the free-to-play browser-based MMORPG Flyff Universe.",
+    "imagen": "https://www.freetogame.com/g/522/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2022-06-14",
+    "precio": 23.14
+  },
+  {
+    "juegoId": "5749959e-67d8-44b0-8e1b-9c9809ea1c3e",
+    "titulo": "World of Runes",
+    "descripcion": "An adorable anime-style MMO featuring cute pets and collectable cards.",
+    "imagen": "https://www.freetogame.com/g/532/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2022-06-13",
+    "precio": 26.84
+  },
+  {
+    "juegoId": "161875e4-53cf-4e2f-8e14-5d5036de3f32",
+    "titulo": "Roller Champions",
+    "descripcion": "What if you could player roller derby, but in a more organized and less physically dangerous environment?",
+    "imagen": "https://www.freetogame.com/g/520/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2022-05-25",
+    "precio": 22.4
+  },
+  {
+    "juegoId": "1943b463-783e-4466-b07e-caf0700a5943",
+    "titulo": "Goose, Goose, DUCK",
+    "descripcion": "A social deduction game with geese.",
+    "imagen": "https://www.freetogame.com/g/550/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2021-10-03",
+    "precio": 8.5
+  },
+  {
+    "juegoId": "ed8eb1bf-21b2-4820-9394-7af310ed3e05",
+    "titulo": "Super Animal Royale",
+    "descripcion": "A free-to-play 2D battle royale  featuring hundreds of animals.",
+    "imagen": "https://www.freetogame.com/g/627/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2021-08-26",
+    "precio": 11.99
+  },
+  {
+    "juegoId": "f6f3cffe-947b-4815-8144-f8bd64a42c3b",
+    "titulo": "Super Squad",
+    "descripcion": "Prepare yourself. It’s time for Mayhem. Super Squad is a multi-player online shoot-’em-up (or MOSH)!",
+    "imagen": "https://www.freetogame.com/g/513/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2021-06-25",
+    "precio": 19.81
+  },
+  {
+    "juegoId": "d359b080-72ac-4f3f-b7ea-8810032b2505",
+    "titulo": "Sherwood Extreme",
+    "descripcion": "High action arcade shooter Sherwood Extreme sends players on a mission to save the kingdom!",
+    "imagen": "https://www.freetogame.com/g/512/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2021-05-12",
+    "precio": 19.44
+  },
+  {
+    "juegoId": "15d2df43-5231-48b9-82ad-cc881fd40447",
+    "titulo": "Smash Legends",
+    "descripcion": "Classic fairy tales get wild with 5minlab and LINE Games Corporation’s brawl-action game Smash Legends.",
+    "imagen": "https://www.freetogame.com/g/509/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2021-04-13",
+    "precio": 18.33
+  },
+  {
+    "juegoId": "d9cd9156-6438-4fe5-aa1d-410b43ae337c",
+    "titulo": "Primordials: Battle of Gods",
+    "descripcion": "Build armies and fight for control of the realm in Global Dodo Entertainment’s 1v1 strategy game Primordials: Battle of Gods. ",
+    "imagen": "https://www.freetogame.com/g/502/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2021-03-04",
+    "precio": 15.74
+  },
+  {
+    "juegoId": "f5f0c786-58bb-4031-943e-6c97b1855826",
+    "titulo": "Super Mecha Champions",
+    "descripcion": "Super Mecha Champions is a PC port of the mobile anime PvP game from NetEease, featuring a variety of modes but focusing on battle royale.",
+    "imagen": "https://www.freetogame.com/g/507/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2021-03-25",
+    "precio": 17.59
+  },
+  {
+    "juegoId": "2090e64a-1958-4110-aeb2-2f749df0a043",
+    "titulo": "Chroma: Bloom And Blight",
+    "descripcion": "Competitive card game fans have a new, completely free option to add to their list. ",
+    "imagen": "https://www.freetogame.com/g/500/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2021-01-28",
+    "precio": 15
+  },
+  {
+    "juegoId": "f5ae9fae-df65-4db9-98d9-606234000deb",
+    "titulo": "Blankos Block Party",
+    "descripcion": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
+    "imagen": "https://www.freetogame.com/g/498/thumbnail.jpg",
+    "genero": "MMO",
+    "fechaPublicacion": "2020-12-11",
+    "precio": 14.26
+  },
+  {
+    "juegoId": "7d4b1c89-22d3-490c-8b92-8926a949245a",
+    "titulo": "Slapshot: Rebound",
+    "descripcion": "Do you like hockey? How about physic-based multiplayer, arcade-style sports games with cute graphics? Well, this is the one for you.",
+    "imagen": "https://www.freetogame.com/g/499/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2020-12-07",
+    "precio": 14.63
+  },
+  {
+    "juegoId": "bd3c2062-0e51-437d-a8ea-aa8af29dc893",
+    "titulo": "Rogue Company",
+    "descripcion": "From Hi-Rez Studios, the team that brought you Smite and Paladins, comes Rogue Company, a cross-platform, competitive team-based third person shooter.",
+    "imagen": "https://www.freetogame.com/g/476/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2020-10-01",
+    "precio": 6.12
+  },
+  {
+    "juegoId": "2b7a8e88-e550-43a7-96cc-b395303246f4",
+    "titulo": "Eternal Return",
+    "descripcion": "Combining elements from battle royale, MOBA, and the survival genres, Eternal Return: Black Survival is a game designed with a broad audience in mind. ",
+    "imagen": "https://www.freetogame.com/g/477/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2020-10-14",
+    "precio": 6.49
+  },
+  {
+    "juegoId": "5dc532c2-735a-493d-88c4-dd8b428e2257",
+    "titulo": "Blood of Steel",
+    "descripcion": "Blood of Steel is an online competitive strategy game featuring some of the most well-known figures throughout medieval history. Choose your general – a Crusader, Viking, Ninja or one of those from the Three Kingdoms. Build your kingdom and command armies in epic PvP battles using classic medieval warfare tactics.",
+    "imagen": "https://www.freetogame.com/g/479/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2020-10-20",
+    "precio": 7.23
+  },
+  {
+    "juegoId": "ef9224be-2608-4b4c-8022-b0647a1a576a",
+    "titulo": "Spellbreak",
+    "descripcion": "Spellbreak is a multiplayer, multi-platform battle-royale where player take on the role of a “battlemage” mastering elemental magic and using spells to compete against other players.",
+    "imagen": "https://www.freetogame.com/g/473/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2020-09-04",
+    "precio": 5.01
+  },
+  {
+    "juegoId": "b96d66ff-bf85-414f-96f9-fb02c3f075dc",
+    "titulo": "Rocket League",
+    "descripcion": "Get your car-soccer gaming on for free with Psyonix’s Rocket League. The popular competitive multi-player game is a popular offering with over 57 million players.",
+    "imagen": "https://www.freetogame.com/g/474/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2020-09-24",
+    "precio": 5.38
+  },
+  {
+    "juegoId": "b73053ce-2c2e-4444-ae64-01ea68c2d91d",
+    "titulo": "Armor Valor",
+    "descripcion": "Build your empire with the help of mythical heroes and well thought out strategy in R2 Games’ strategy RPG Armor Valor.",
+    "imagen": "https://www.freetogame.com/g/471/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2020-07-20",
+    "precio": 29.27
+  },
+  {
+    "juegoId": "b1325e31-fa95-4c8d-b7ad-a4e2b585c4a3",
+    "titulo": "Unfortunate Spacemen",
+    "descripcion": "Unfortunate Spacemen is a co-op multiplayer game about Shapeshifting with a Co-op Story Mode, lots of objectives and more!",
+    "imagen": "https://www.freetogame.com/g/469/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2020-06-12",
+    "precio": 28.53
+  },
+  {
+    "juegoId": "9456a4bd-2643-42ed-9c3e-710f90a503be",
+    "titulo": "Shop Titans",
+    "descripcion": "A free-to-play RPG shopkeeper simulation game where you are responsible for designing and maintaining your own shop.",
+    "imagen": "https://www.freetogame.com/g/461/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2020-05-05",
+    "precio": 25.57
+  },
+  {
+    "juegoId": "7351308d-4981-455f-a498-7ff38e27bfea",
+    "titulo": "Survivor Legacy",
+    "descripcion": "Survivor Legacy is a free-to-play zombie-themed strategy game from R2 Games.",
+    "imagen": "https://www.freetogame.com/g/463/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2020-04-07",
+    "precio": 26.31
+  },
+  {
+    "juegoId": "59864945-dbf5-4538-be32-0580444a94b1",
+    "titulo": "Bombergrounds: Battle Royale",
+    "descripcion": "A free-to-play massively multiplayer battle Royale game inspired by the old-shool Bomberman games!",
+    "imagen": "https://www.freetogame.com/g/459/thumbnail.jpg",
+    "genero": "Battle Royale",
+    "fechaPublicacion": "2020-03-07",
+    "precio": 24.83
+  },
+  {
+    "juegoId": "f362e040-31c5-419d-9dec-b9ed7d602a56",
+    "titulo": "Kakale Online",
+    "descripcion": "A free-to-play top-down 2D MMORPG from developer and publisher ViVa Games.",
+    "imagen": "https://www.freetogame.com/g/563/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2020-02-01",
+    "precio": 13.31
+  },
+  {
+    "juegoId": "014e8927-d44a-4203-92e1-384a17076ba4",
+    "titulo": "Darwin Project",
+    "descripcion": "A free-to-play 10-player battle royale game set just prior to an impeding ice age.",
+    "imagen": "https://www.freetogame.com/g/39/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2020-01-14",
+    "precio": 19.43
+  },
+  {
+    "juegoId": "e39a1a0b-3ddc-46f7-8b1c-9061ee2b21ef",
+    "titulo": "Legends of Runeterra",
+    "descripcion": "A free-to-play CCG based on Riot Games' MOBA League of Legends.",
+    "imagen": "https://www.freetogame.com/g/441/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2020-01-24",
+    "precio": 18.17
+  },
+  {
+    "juegoId": "06139893-b126-456e-a007-c4cc6c978dce",
+    "titulo": "CRSED: F.O.A.D.",
+    "descripcion": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
+    "imagen": "https://www.freetogame.com/g/4/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2019-12-12",
+    "precio": 6.48
+  },
+  {
+    "juegoId": "e162722a-1bd6-492d-abf9-e5fc44ed3265",
+    "titulo": "Mirage Online Classic",
+    "descripcion": "A browser-based free-to-play spiritual successor to 2001's Mirage Online.",
+    "imagen": "https://www.freetogame.com/g/535/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2019-12-24",
+    "precio": 27.95
+  },
+  {
+    "juegoId": "e2573f5a-8de8-4139-9eb4-455927146458",
+    "titulo": "Inferna",
+    "descripcion": "A cross-platform MMO from indie developer and publisher Inferna Limited, designed for players seeking a classic experience.  ",
+    "imagen": "https://www.freetogame.com/g/436/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2019-12-21",
+    "precio": 16.32
+  },
+  {
+    "juegoId": "94b08b46-a5fe-4ee9-b754-00c3e681c122",
+    "titulo": "Ultimate Pirates",
+    "descripcion": "A browser-based strategy MMO published for both desktop and mobile browsers by Gameforge.  ",
+    "imagen": "https://www.freetogame.com/g/443/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-12-02",
+    "precio": 18.91
+  },
+  {
+    "juegoId": "2b976f4d-433d-43f4-a063-9918648cd597",
+    "titulo": "Stay Out",
+    "descripcion": "An MMORPG featuring urban exploration and shooter elements.",
+    "imagen": "https://www.freetogame.com/g/437/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2019-11-27",
+    "precio": 16.69
+  },
+  {
+    "juegoId": "0bd8bbcf-3c32-4ec4-8865-9d98421e3882",
+    "titulo": "PC Futbol Legends",
+    "descripcion": "An arcade soccer game inspired by cult arcade games from IDC games. ",
+    "imagen": "https://www.freetogame.com/g/439/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2019-11-01",
+    "precio": 17.43
+  },
+  {
+    "juegoId": "111190a5-d04b-441f-8c18-e3f87c1e0680",
+    "titulo": "Vampire Empire",
+    "descripcion": "A multiplayer strategy game that focuses on the war between vampires and werewolves. ",
+    "imagen": "https://www.freetogame.com/g/440/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-11-07",
+    "precio": 17.8
+  },
+  {
+    "juegoId": "274e9f34-91cb-4032-a6ee-4ba07ce55c68",
+    "titulo": "Firestone Idle RPG",
+    "descripcion": "Set in the fantasy world of Alandria, Firestone is an idle RPG in which players are tasked with building the best possible party of heroes and using them to defeat the undead and orcs that plague the world.",
+    "imagen": "https://www.freetogame.com/g/468/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-09-26",
+    "precio": 28.16
+  },
+  {
+    "juegoId": "42ef954d-3551-4d6b-8e4a-8dc098fc4e63",
+    "titulo": "Mythgard",
+    "descripcion": "Rhino Games Inc.’s CCG Mythgard combines cyberpunk with the heroes, gods, and creatures of the fantasy in a modern setting to create a world where magic competes against technology for control.",
+    "imagen": "https://www.freetogame.com/g/505/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2019-09-18",
+    "precio": 16.85
+  },
+  {
+    "juegoId": "c110c34c-f8bb-4a9a-9be2-b8b751c407fe",
+    "titulo": "Crystal Clash",
+    "descripcion": "A free-to-play fantasy RTS developed by Crunchy Leaf Games. ",
+    "imagen": "https://www.freetogame.com/g/451/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-08-30",
+    "precio": 21.87
+  },
+  {
+    "juegoId": "bf51cd37-8afe-427c-89d2-5d1227153819",
+    "titulo": "Dota Underlords",
+    "descripcion": "A free-to-play auto battler strategy game set in the world of Valve's Dota franchise.",
+    "imagen": "https://www.freetogame.com/g/447/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-06-21",
+    "precio": 20.39
+  },
+  {
+    "juegoId": "c91adda3-1e58-4940-9cde-a995425538c2",
+    "titulo": "Minion Masters",
+    "descripcion": "A free-to-play strategic minion brawler from Danish developer Betadwarf. ",
+    "imagen": "https://www.freetogame.com/g/19/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2019-05-24",
+    "precio": 12.03
+  },
+  {
+    "juegoId": "544875fe-0eaa-4b40-bd4b-892f9fcd6d56",
+    "titulo": "Splitgate",
+    "descripcion": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
+    "imagen": "https://www.freetogame.com/g/20/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2019-05-22",
+    "precio": 12.4
+  },
+  {
+    "juegoId": "9eee7568-b450-4126-b93d-7bffd47b5fbe",
+    "titulo": "Eternal Fury",
+    "descripcion": "A free-to-play ARPG from R2 Games!",
+    "imagen": "https://www.freetogame.com/g/455/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2019-05-21",
+    "precio": 23.35
+  },
+  {
+    "juegoId": "78cdd8a7-1143-4028-9db1-b8db3837ca29",
+    "titulo": "Conqueror's Blade",
+    "descripcion": "Command your own medieval army in Conqueror's Blade, a war simulator developed by Booming games.",
+    "imagen": "https://www.freetogame.com/g/456/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-05-30",
+    "precio": 23.72
+  },
+  {
+    "juegoId": "8b569337-fcde-45de-ba99-3d8c36951c7b",
+    "titulo": "Stein.world",
+    "descripcion": "A free-to-play, browser-based online fantasy role \r\nplaying game done in an old-school \r\n16-bit style.",
+    "imagen": "https://www.freetogame.com/g/353/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2019-04-24",
+    "precio": 10.61
+  },
+  {
+    "juegoId": "d4f67120-1007-4099-aae0-6ba12acd3d68",
+    "titulo": "Kards",
+    "descripcion": "A free-to-play collectible World War II card game from developer 1939 Games.",
+    "imagen": "https://www.freetogame.com/g/438/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2019-04-12",
+    "precio": 17.06
+  },
+  {
+    "juegoId": "1699040e-471b-4b43-bb60-e2894d14a8ca",
+    "titulo": "KurtzPel",
+    "descripcion": "A free-to-play third-person action battle game from KOG Games.",
+    "imagen": "https://www.freetogame.com/g/448/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2019-04-30",
+    "precio": 20.76
+  },
+  {
+    "juegoId": "8f58d150-6ae1-45e0-b64f-e0f8b4e6fd24",
+    "titulo": "The Third Age",
+    "descripcion": "A free-to-play browser-based Strategy MMO game focused on story-based PvE gameplay!",
+    "imagen": "https://www.freetogame.com/g/457/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2019-04-29",
+    "precio": 24.09
+  },
+  {
+    "juegoId": "70afe9de-bae1-4e75-b14a-dd161f6bcf90",
+    "titulo": "Eternal",
+    "descripcion": "A strategy card game designed to take the best elements of Magic the Gathering, Hearthstone, and Hex and combine them all into one game.",
+    "imagen": "https://www.freetogame.com/g/91/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2018-11-15",
+    "precio": 13.67
+  },
+  {
+    "juegoId": "f468b58e-70e7-420a-81b6-9fb7e8a120f1",
+    "titulo": "Artifact",
+    "descripcion": "Valve’s Artifact is two games in one. Whether you’re looking for the original Dota 2 trading card game created with the help of card game designer Richard Garfield or something a little more streamlined, Artifact has both in one download.",
+    "imagen": "https://www.freetogame.com/g/503/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2018-11-29",
+    "precio": 16.11
+  },
+  {
+    "juegoId": "f5a91164-5f90-4675-93c0-5750c93a1526",
+    "titulo": "World War 3",
+    "descripcion": "A realistic multiplayer tactical FPS.",
+    "imagen": "https://www.freetogame.com/g/538/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-10-19",
+    "precio": 29.06
+  },
+  {
+    "juegoId": "bee84e5f-0578-405f-b494-e431fccdf012",
+    "titulo": "Combat Arms: Reloaded",
+    "descripcion": "A free to play modern first person shooter with lots of maps and weapons!",
+    "imagen": "https://www.freetogame.com/g/299/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-10-31",
+    "precio": 15.63
+  },
+  {
+    "juegoId": "87b570d7-b744-4571-abee-8434fa9e043f",
+    "titulo": "Dreadnought",
+    "descripcion": "A free-to-play combat flight simulator developed by Yager Development and published by Grey Box. ",
+    "imagen": "https://www.freetogame.com/g/68/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-10-14",
+    "precio": 5.16
+  },
+  {
+    "juegoId": "f0fb4377-c9a9-46dd-8fa8-52a03a6ee6cb",
+    "titulo": "Spacelords",
+    "descripcion": "A free-to-play 4v1 sci-fi shooter. ",
+    "imagen": "https://www.freetogame.com/g/28/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-09-22",
+    "precio": 15.36
+  },
+  {
+    "juegoId": "9daec99e-46ad-4952-9491-ba72581be037",
+    "titulo": "Battlerite Royale",
+    "descripcion": "A free to play battle royale set in the Battlerite universe.",
+    "imagen": "https://www.freetogame.com/g/450/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2018-09-26",
+    "precio": 21.5
+  },
+  {
+    "juegoId": "572ff511-b824-480b-a75d-6e563c5dece5",
+    "titulo": "Magic: The Gathering Arena",
+    "descripcion": "A free-to-play digital recreation of Wizards of the Coast's popular collectible card game.",
+    "imagen": "https://www.freetogame.com/g/454/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2018-09-27",
+    "precio": 22.98
+  },
+  {
+    "juegoId": "4f8cfd2e-ec9e-4ebf-9c2d-b7b9e974a917",
+    "titulo": "League of Angels 3",
+    "descripcion": "A free-to-play turn-based strategy browser game developed and published by GTArcade Entertainment, Inc.",
+    "imagen": "https://www.freetogame.com/g/341/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-08-14",
+    "precio": 6.17
+  },
+  {
+    "juegoId": "c14eb7e2-735f-4f3d-baa1-596d7b865c7a",
+    "titulo": "BlackShot: Revolution",
+    "descripcion": "Get thrown into the fast-paced action of a virtual war zone and compete against other players.",
+    "imagen": "https://www.freetogame.com/g/282/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-07-27",
+    "precio": 9.34
+  },
+  {
+    "juegoId": "a0ba84c5-0716-4448-b899-b32f7d291f63",
+    "titulo": "Cosmos Invictus",
+    "descripcion": "A strategic collectible card game developed and published by Pegnio Ltd. ",
+    "imagen": "https://www.freetogame.com/g/31/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2018-06-27",
+    "precio": 16.47
+  },
+  {
+    "juegoId": "a7a0ba44-1027-4e3f-a8c5-f8b11b9a3064",
+    "titulo": "Empire: World War 3",
+    "descripcion": "A free-to-play browser-based action packed strategy game from the developer of Legends of Honor.",
+    "imagen": "https://www.freetogame.com/g/460/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2018-06-28",
+    "precio": 25.2
+  },
+  {
+    "juegoId": "329e01c3-5c3b-468c-a440-512c13a24d64",
+    "titulo": "Totally Accurate Battlegrounds",
+    "descripcion": "Take 60 players, throw them on a map together with over 90 weapons, including balloon crossbows, pots and pans, and inflatable hammers, add physics-based parkour and you have Landfall’s Totally Accurate Battlegrounds (TABG).",
+    "imagen": "https://www.freetogame.com/g/506/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-06-06",
+    "precio": 17.22
+  },
+  {
+    "juegoId": "832edd1e-0b35-401a-a257-167c023af0a6",
+    "titulo": "Will To Live",
+    "descripcion": "A free-to-play MMORPG-shooter developed and published by AlphaSoft LLC.",
+    "imagen": "https://www.freetogame.com/g/434/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-04-05",
+    "precio": 15.58
+  },
+  {
+    "juegoId": "34ca17ce-339d-4732-ae12-8078cd199428",
+    "titulo": "Battle Arena Heroes Adventure",
+    "descripcion": "A MOBA with RPG elements.",
+    "imagen": "https://www.freetogame.com/g/543/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2018-03-19",
+    "precio": 5.91
+  },
+  {
+    "juegoId": "cfede16e-53f1-4127-9556-c654e9b89d58",
+    "titulo": "Spellsworn",
+    "descripcion": "A free-to-play arena battle game developed and published by Frogsong Studios AB. ",
+    "imagen": "https://www.freetogame.com/g/42/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2018-03-13",
+    "precio": 20.54
+  },
+  {
+    "juegoId": "31ea02b4-6fde-4c0a-9d8a-2b2a46dc7dcc",
+    "titulo": "Z1 Battle Royale",
+    "descripcion": "A highly competitive free-to-play battle royale shooter.",
+    "imagen": "https://www.freetogame.com/g/43/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2018-02-28",
+    "precio": 20.91
+  },
+  {
+    "juegoId": "010cdc04-35aa-498f-8d19-2e1b0e6f6a3f",
+    "titulo": "Tale Of Toast",
+    "descripcion": "A free-to-play open world MMO inspired by classic, core MMOs. ",
+    "imagen": "https://www.freetogame.com/g/44/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-02-23",
+    "precio": 21.28
+  },
+  {
+    "juegoId": "5a98773e-749c-46c4-aa8e-1ccde7c8ad53",
+    "titulo": "SoulWorker",
+    "descripcion": "A free to play anime action MMO based on the popular anime of the same title. ",
+    "imagen": "https://www.freetogame.com/g/45/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-02-27",
+    "precio": 21.65
+  },
+  {
+    "juegoId": "7aab5944-d9b4-433c-9e9f-a512d18ee234",
+    "titulo": "Bombtag",
+    "descripcion": "A free-to-play multiplayer Bomberman-inspired game.",
+    "imagen": "https://www.freetogame.com/g/47/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2018-02-12",
+    "precio": 22.39
+  },
+  {
+    "juegoId": "620f8ce7-9bd9-460d-b483-8606244d32ed",
+    "titulo": "Dead Maze",
+    "descripcion": "A free-to-play 2D isometric MMO full of zombies. ",
+    "imagen": "https://www.freetogame.com/g/49/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-02-13",
+    "precio": 23.13
+  },
+  {
+    "juegoId": "add0a8b9-7d7e-4e34-98b5-0c66c398a381",
+    "titulo": "Scions of Fate",
+    "descripcion": "A friendly free to play MMORPG with easy to pick up controls.",
+    "imagen": "https://www.freetogame.com/g/316/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2018-01-30",
+    "precio": 21.92
+  },
+  {
+    "juegoId": "33307e4d-9365-4040-baef-ee030adba1f0",
+    "titulo": "Wild Terra Online",
+    "descripcion": "A medieval sandbox MMO designed with core players in mind. ",
+    "imagen": "https://www.freetogame.com/g/22/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-12-18",
+    "precio": 13.14
+  },
+  {
+    "juegoId": "4fa524ba-b62f-4143-875c-e31eb5d647a1",
+    "titulo": "Global Adventures",
+    "descripcion": "A free-to-play MMORPG developed by PixelSoft and Published by SubaGames. ",
+    "imagen": "https://www.freetogame.com/g/51/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-12-29",
+    "precio": 23.87
+  },
+  {
+    "juegoId": "e043fa72-7a55-46d7-8eb7-b00bb448ad7e",
+    "titulo": "Closers",
+    "descripcion": "A free-to-play episodic anime beat-em-up developed \r\nby Naddic Games and published by \r\nEn Masse Entertainment. ",
+    "imagen": "https://www.freetogame.com/g/52/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-12-19",
+    "precio": 24.24
+  },
+  {
+    "juegoId": "bc5d6828-3147-4560-9e43-c0c156a62696",
+    "titulo": "La Tale Evolved",
+    "descripcion": "A 2D side-scrolling fantasy MMORPG with anime-inspired graphics.",
+    "imagen": "https://www.freetogame.com/g/322/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-11-17",
+    "precio": 24.14
+  },
+  {
+    "juegoId": "ce0310d8-3571-400e-a8a6-cfd958191105",
+    "titulo": "Luna Online: Reborn",
+    "descripcion": "A free-to-play, anime themed fantasy MMORPG and a remake of the previous Luna MMO! ",
+    "imagen": "https://www.freetogame.com/g/120/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-10-17",
+    "precio": 24.4
+  },
+  {
+    "juegoId": "0ddc7cbc-66f8-49d1-8989-b612a02d8070",
+    "titulo": "The Ultimatest Battle",
+    "descripcion": "A free-to-play 2D platform game that pits two teams of players against each other in a variety of modes. ",
+    "imagen": "https://www.freetogame.com/g/58/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2017-09-12",
+    "precio": 26.46
+  },
+  {
+    "juegoId": "9a7c150b-4fe3-4183-99c4-671b2cf7fef2",
+    "titulo": "Quake Champions",
+    "descripcion": "Quake Champions is a callback to the early days of the Quake IP, featuring the fast-paced action that made the IP popular over two decades ago. ",
+    "imagen": "https://www.freetogame.com/g/30/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-08-22",
+    "precio": 16.1
+  },
+  {
+    "juegoId": "036f1a81-d967-49eb-b0e3-dbdf353bc607",
+    "titulo": "Gods Origin Online",
+    "descripcion": "A free-to-play browser-based RPG from VivaGames in which players take on the role of human summoners that call deities from the Astral Realm back in time. ",
+    "imagen": "https://www.freetogame.com/g/354/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-08-29",
+    "precio": 10.98
+  },
+  {
+    "juegoId": "967caddc-5fd8-4900-9b69-7ac17c6db757",
+    "titulo": "Black Squad",
+    "descripcion": "A free-to-play military FPS developed by NS STUDIO and published by NEOWIZ.",
+    "imagen": "https://www.freetogame.com/g/61/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-07-28",
+    "precio": 27.57
+  },
+  {
+    "juegoId": "ed7068f3-4fcd-4f6e-920a-6b6ffe39ae82",
+    "titulo": "Secret World Legends",
+    "descripcion": "A free-to-play reboot of The Secret World. ",
+    "imagen": "https://www.freetogame.com/g/64/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-07-31",
+    "precio": 28.68
+  },
+  {
+    "juegoId": "a58199f9-91ad-44b0-b405-46ad65a826ed",
+    "titulo": "Albion Online",
+    "descripcion": "A free-to-play cross-platform sandbox MMO developed and published by Sandbox Interactive GmbH. ",
+    "imagen": "https://www.freetogame.com/g/449/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-07-17",
+    "precio": 21.13
+  },
+  {
+    "juegoId": "a122b5cf-c4fd-44fd-a8a3-4b8bb5d504ae",
+    "titulo": "Pixel Worlds",
+    "descripcion": "A free-to-play, side-scroller MMO sandbox game developed and published by Kukouri Mobile Entertainment. ",
+    "imagen": "https://www.freetogame.com/g/65/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-06-09",
+    "precio": 29.05
+  },
+  {
+    "juegoId": "ce60ff2a-ceba-4322-bf0e-675e7f7594af",
+    "titulo": "Deceit",
+    "descripcion": "A free-to-play multiplayer first-person shooter set \r\nin an asylum! ",
+    "imagen": "https://www.freetogame.com/g/55/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-05-03",
+    "precio": 25.35
+  },
+  {
+    "juegoId": "cc237ff1-31ab-407a-ab1a-3e72ec7113d7",
+    "titulo": "Gwent: The Witcher Card Game",
+    "descripcion": "A free-to-play card game based on CD Projekt Red's popular Witcher franchise. ",
+    "imagen": "https://www.freetogame.com/g/66/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2017-05-24",
+    "precio": 29.42
+  },
+  {
+    "juegoId": "62ebd66d-6996-4056-84de-aef34a163f23",
+    "titulo": "Awesomenauts",
+    "descripcion": "A 3v3 2D battle arena Developed by Ronimo games.",
+    "imagen": "https://www.freetogame.com/g/67/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2017-05-24",
+    "precio": 29.79
+  },
+  {
+    "juegoId": "d7273575-c637-41ce-8a56-7e9f125b8e39",
+    "titulo": "Alien Swarm: Reactive Drop",
+    "descripcion": "A free-to-play top-down tactical co-op expansion on the Alien swarm game and Source SDK.",
+    "imagen": "https://www.freetogame.com/g/70/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-04-20",
+    "precio": 5.9
+  },
+  {
+    "juegoId": "a103900c-81c1-4149-b68f-4c81ebdb6d7c",
+    "titulo": "Catan Universe",
+    "descripcion": "A free-to-play strategy game based on the classic board and card games. ",
+    "imagen": "https://www.freetogame.com/g/71/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2017-04-25",
+    "precio": 6.27
+  },
+  {
+    "juegoId": "a2465073-b34f-4ff7-aa7b-c3426ad65880",
+    "titulo": "Krosmaga",
+    "descripcion": "A free-to-play CCG/tower defense hybrid developed \r\nby Ankama Studio and published by \r\nAnkama Games. ",
+    "imagen": "https://www.freetogame.com/g/72/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2017-04-12",
+    "precio": 6.64
+  },
+  {
+    "juegoId": "ae403d83-3d1f-4da1-8844-7c2b05501b03",
+    "titulo": "Chronicles of Eidola",
+    "descripcion": "A free-to-play 3D Browser RPG from AMZGame.",
+    "imagen": "https://www.freetogame.com/g/355/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-04-10",
+    "precio": 11.35
+  },
+  {
+    "juegoId": "c36958ba-04a9-4b59-99e6-58918f2314f4",
+    "titulo": "MU Legend",
+    "descripcion": "A free-to-play MMORPG developed by Webzen and the followup to MU Online. ",
+    "imagen": "https://www.freetogame.com/g/87/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-03-23",
+    "precio": 12.19
+  },
+  {
+    "juegoId": "0382b1af-3246-4b65-b0cf-de0c7202f90d",
+    "titulo": "Therian Saga",
+    "descripcion": "A browser-based sandbox MMORPG with a complex crafting system.",
+    "imagen": "https://www.freetogame.com/g/421/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-03-27",
+    "precio": 10.77
+  },
+  {
+    "juegoId": "bb851419-c493-48e9-8469-735703087ee2",
+    "titulo": "Cabals: Card Blitz",
+    "descripcion": "A free-to-play game developed by Kyy Games and published by BISBOG SA. ",
+    "imagen": "https://www.freetogame.com/g/69/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2017-02-08",
+    "precio": 5.53
+  },
+  {
+    "juegoId": "33b42fb5-2bb8-4b2d-bcb3-4e48b82e2a8c",
+    "titulo": "Line of Sight",
+    "descripcion": "Free FPS game described as \"Bioshock meets Call of Duty\"! ",
+    "imagen": "https://www.freetogame.com/g/82/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2017-01-31",
+    "precio": 10.34
+  },
+  {
+    "juegoId": "52448679-c617-4ffa-a499-ebdf5e8574b4",
+    "titulo": "Dragon Awaken",
+    "descripcion": "A free-to-play, browser-based fantasy RPG developed \r\nby Game Hollywood and published by \r\nProficient City.",
+    "imagen": "https://www.freetogame.com/g/343/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2017-01-03",
+    "precio": 6.91
+  },
+  {
+    "juegoId": "59fad207-c473-4bb2-ab43-45df4e5662cc",
+    "titulo": "Infestation: The New Z",
+    "descripcion": "A re-work of the open world zombie shooter game Infestation: Survivor Stories (or as it was formerly known \"The War Z\").",
+    "imagen": "https://www.freetogame.com/g/85/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2016-11-22",
+    "precio": 11.45
+  },
+  {
+    "juegoId": "015165db-e48c-4789-ad2b-b51cc4b54c2a",
+    "titulo": "One Tower",
+    "descripcion": "A unique 1v1 MOBA known as a \"micro-moba\" developed and published by SkyReacher following a successful Kickstarter. ",
+    "imagen": "https://www.freetogame.com/g/92/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2016-11-11",
+    "precio": 14.04
+  },
+  {
+    "juegoId": "138065f4-e3c0-4843-84d9-862d63a7d558",
+    "titulo": "Shadowverse",
+    "descripcion": "A free-to-play strategic CCG developed and published by Cygamesm the creators of Rage of Bahamut and Granblu Fantasy. ",
+    "imagen": "https://www.freetogame.com/g/88/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2016-10-28",
+    "precio": 12.56
+  },
+  {
+    "juegoId": "f39727a9-7fa0-4779-9166-fc65d9742ab3",
+    "titulo": "AdventureQuest 3D",
+    "descripcion": "A free to play cross-platform MMORPG from the creators of the original 2D RPG game.",
+    "imagen": "https://www.freetogame.com/g/89/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-10-19",
+    "precio": 12.93
+  },
+  {
+    "juegoId": "7af66b45-c5b5-4302-8c3b-32f85aeb7ede",
+    "titulo": "Riding Club Championships",
+    "descripcion": "An online competitive horse riding game inspired by traditional equestrian disciplines. ",
+    "imagen": "https://www.freetogame.com/g/93/thumbnail.jpg",
+    "genero": "Racing",
+    "fechaPublicacion": "2016-09-27",
+    "precio": 14.41
+  },
+  {
+    "juegoId": "9d00ed14-dc6c-4c01-8946-3cce8fb09920",
+    "titulo": "Battlerite",
+    "descripcion": "A free-to-play team arena brawler developed by Stunlock Studios. Players play as one of several available champions on teams in 2v2 or 3v3 matches. ",
+    "imagen": "https://www.freetogame.com/g/94/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2016-09-21",
+    "precio": 14.78
+  },
+  {
+    "juegoId": "6db8cec8-644c-4e76-8dd3-154e99f7921a",
+    "titulo": "Paladins",
+    "descripcion": "A free-to-play team-based shooter developed and published by Hi-Rez Games, the creators of SMITE. ",
+    "imagen": "https://www.freetogame.com/g/95/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2016-09-16",
+    "precio": 15.15
+  },
+  {
+    "juegoId": "9ccd4778-79a1-491e-b846-1da8cb9f8a8e",
+    "titulo": "Omega Zodiac",
+    "descripcion": "A Greek and Norse mythology based free-to-play action MMO developed and published by Proficient City and Game Hollywood.",
+    "imagen": "https://www.freetogame.com/g/344/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-08-25",
+    "precio": 7.28
+  },
+  {
+    "juegoId": "8291abc9-2f12-4750-87e4-aac91654ba3f",
+    "titulo": "Riders of Icarus",
+    "descripcion": "A free-to-play action MMORPG featuring mounted, in-air combat. ",
+    "imagen": "https://www.freetogame.com/g/106/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-07-06",
+    "precio": 19.22
+  },
+  {
+    "juegoId": "d8684483-d6d3-48c9-805c-d4b00294685f",
+    "titulo": "Naruto Online",
+    "descripcion": "A free-to-play MMO based on the popular anime series and manga, developed \r\nby Bandai Namco Entertainment. ",
+    "imagen": "https://www.freetogame.com/g/365/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-07-20",
+    "precio": 15.05
+  },
+  {
+    "juegoId": "a60d2306-1ce1-4ece-b6a2-c4f0a52467aa",
+    "titulo": "Zula",
+    "descripcion": "A free-to-play online FPS developed and published by IDC/Games. ",
+    "imagen": "https://www.freetogame.com/g/108/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2016-06-23",
+    "precio": 19.96
+  },
+  {
+    "juegoId": "d4ae2c9c-9c56-4f0f-9804-5075d682d375",
+    "titulo": "LuckCatchers",
+    "descripcion": "A free-to-play sandbox sim based on the novels of fantasy and steam-punk author A. Pehov.",
+    "imagen": "https://www.freetogame.com/g/109/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-06-15",
+    "precio": 20.33
+  },
+  {
+    "juegoId": "c1527ff7-4e2b-4478-885a-3a716dc1a905",
+    "titulo": "UFO Online: Invasion",
+    "descripcion": "A free-to-play post-apocalyptic, turn-based tactical combat \r\nMMO developed by Bad Pixel. ",
+    "imagen": "https://www.freetogame.com/g/110/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-06-08",
+    "precio": 20.7
+  },
+  {
+    "juegoId": "3567c7da-01a0-49a3-89b8-619037fbdbfa",
+    "titulo": "Weapons Of Mythology",
+    "descripcion": "A 3D free-to-play fantasy MMORPG published by IDC/Games. ",
+    "imagen": "https://www.freetogame.com/g/112/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-06-07",
+    "precio": 21.44
+  },
+  {
+    "juegoId": "8cc5d991-8501-45a6-b540-5b525a6203f7",
+    "titulo": "Tree of Savior",
+    "descripcion": "A fantasy 3D MMORPG with a massive freedom of choice, cute looking characters and a distinct art style. ",
+    "imagen": "https://www.freetogame.com/g/116/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-05-10",
+    "precio": 22.92
+  },
+  {
+    "juegoId": "257416fe-ae9f-46e5-96be-6359d95015a2",
+    "titulo": "Starbreak",
+    "descripcion": "A Roguelike MMORPG with MetroidVania-style platformer \r\ngameplay! Castlevania and Metroid fans will \r\nlove this game! ",
+    "imagen": "https://www.freetogame.com/g/118/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-05-10",
+    "precio": 23.66
+  },
+  {
+    "juegoId": "0730869c-e33c-4a4c-a147-7cfe7f743b68",
+    "titulo": "Fantasy Tales Online",
+    "descripcion": "A free-to-play, retro MMO featuring puzzles, a rich crafting system and Randomly generated dungeons! ",
+    "imagen": "https://www.freetogame.com/g/119/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-05-06",
+    "precio": 24.03
+  },
+  {
+    "juegoId": "7efa1e2e-5767-40a0-8aed-5961982a9e0f",
+    "titulo": "Dragon Blood",
+    "descripcion": "A free-to-play browser MMORPG from 101XP, you'll harness your unique power and the blood of dragons that flows through your veins! ",
+    "imagen": "https://www.freetogame.com/g/370/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-04-16",
+    "precio": 16.9
+  },
+  {
+    "juegoId": "b8f6ed93-6f37-4c02-b1f7-87294156a8b8",
+    "titulo": "League of Angels 2",
+    "descripcion": "A free to play browser MMORPG that captures all the beauty and elegance of its predecessor.",
+    "imagen": "https://www.freetogame.com/g/371/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-04-06",
+    "precio": 17.27
+  },
+  {
+    "juegoId": "37785a0a-1f3e-4c8d-a409-b2ac8a1649ce",
+    "titulo": "Astral Heroes",
+    "descripcion": "A free-to-play collectable card game from the creators of Astral Masters. ",
+    "imagen": "https://www.freetogame.com/g/117/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2016-03-15",
+    "precio": 23.29
+  },
+  {
+    "juegoId": "40709f6d-28c5-4265-98dd-8181ac2bead8",
+    "titulo": "Holodrive",
+    "descripcion": "A free-to-play 2D multiplayer shooter developed by BitCake Studio and published by Versus Evil in which players play as customizable robots or \"Dummys\". ",
+    "imagen": "https://www.freetogame.com/g/124/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2016-03-24",
+    "precio": 25.88
+  },
+  {
+    "juegoId": "7549e41f-4304-492d-9348-b30897a2fbb3",
+    "titulo": "Cabal Online",
+    "descripcion": "A free to play fast-paced skill-based MMORPG in a stunning world!",
+    "imagen": "https://www.freetogame.com/g/304/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-02-17",
+    "precio": 17.48
+  },
+  {
+    "juegoId": "ed60d4fb-afa1-4b0b-af54-9386049bd309",
+    "titulo": "Atom Universe",
+    "descripcion": "A free-to-play multiplayer online social Virtual World set in a theme park.",
+    "imagen": "https://www.freetogame.com/g/125/thumbnail.jpg",
+    "genero": "Social",
+    "fechaPublicacion": "2016-02-27",
+    "precio": 26.25
+  },
+  {
+    "juegoId": "be463928-67d0-468d-a334-2924fe03957a",
+    "titulo": "Spellweaver",
+    "descripcion": "A free-to-play multiplayer online collectible card \r\ngame that requires deep strategic and \r\nthinking.",
+    "imagen": "https://www.freetogame.com/g/128/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2016-02-02",
+    "precio": 27.36
+  },
+  {
+    "juegoId": "835ed195-c914-4d1b-8e19-471d6e4d6fb0",
+    "titulo": "Clash of Avatars",
+    "descripcion": "A free to play 3D browser MMORPG with powerful Avatars, 50 mounts, \r\nand several loyal pets.",
+    "imagen": "https://www.freetogame.com/g/374/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2016-01-19",
+    "precio": 18.38
+  },
+  {
+    "juegoId": "35ac948d-418f-49b5-b968-5f1af9e4992b",
+    "titulo": "War Trigger 3",
+    "descripcion": "A MMO shooter with infantry, vehicle, and air combat across massive maps! ",
+    "imagen": "https://www.freetogame.com/g/134/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-12-23",
+    "precio": 29.58
+  },
+  {
+    "juegoId": "1056ec0c-2c9b-4297-8c1d-5af4be48aaa3",
+    "titulo": "VEGA Conflict",
+    "descripcion": "A Cross-Platform free to play 2D sci-fi strategy MMO.",
+    "imagen": "https://www.freetogame.com/g/136/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-12-15",
+    "precio": 5.32
+  },
+  {
+    "juegoId": "9524c131-46e4-4074-8acd-d5c3742d2c75",
+    "titulo": "Metal War Online: Retribution",
+    "descripcion": "A high-speed multiplayer online concept car shooter game with racing elements!",
+    "imagen": "https://www.freetogame.com/g/137/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-12-11",
+    "precio": 5.69
+  },
+  {
+    "juegoId": "a1a8ec01-696a-4917-a433-f480c59d2e3b",
+    "titulo": "Immortal Empire",
+    "descripcion": "A free to play multiplayer strategy RPG developed by Tactic Studios.",
+    "imagen": "https://www.freetogame.com/g/139/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-12-03",
+    "precio": 6.43
+  },
+  {
+    "juegoId": "7f8d1a1d-fb82-4a51-b686-efe8ee8dad40",
+    "titulo": "MechWarrior Online",
+    "descripcion": "A free-to-play PvP game that's a faithful adaptation of the popular MechWarrior strategy board games.",
+    "imagen": "https://www.freetogame.com/g/222/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-12-10",
+    "precio": 12.14
+  },
+  {
+    "juegoId": "450bbb13-33a0-4da4-8721-f9e9eb31b3c5",
+    "titulo": "Armored Warfare",
+    "descripcion": "A modern team-based MMO tank game from Obsidian Entertainment.",
+    "imagen": "https://www.freetogame.com/g/7/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-10-08",
+    "precio": 7.59
+  },
+  {
+    "juegoId": "8593d71c-338f-4282-b096-aa164941facc",
+    "titulo": "America’s Army: Proving Grounds",
+    "descripcion": "Take a first person shooter, have the game developed by the U.S. Army and you’ve got America’s Army.",
+    "imagen": "https://www.freetogame.com/g/149/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-10-01",
+    "precio": 10.13
+  },
+  {
+    "juegoId": "2738c9e8-8762-4563-bf43-dd2c39d681f1",
+    "titulo": "One Piece Online 2",
+    "descripcion": "A free-to-play, browser-based 2D MMORPG based on the immensely popular One Piece franchise.",
+    "imagen": "https://www.freetogame.com/g/346/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-09-25",
+    "precio": 8.02
+  },
+  {
+    "juegoId": "d5bfb1db-1d8e-450d-8e55-21ed7c568f57",
+    "titulo": "Legends of Honor",
+    "descripcion": "A free to play browser based medieval fantasy 2D MMORTS.",
+    "imagen": "https://www.freetogame.com/g/383/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-08-20",
+    "precio": 21.71
+  },
+  {
+    "juegoId": "c9ec2235-be31-434f-becd-1bf8626fe8bc",
+    "titulo": "Felspire",
+    "descripcion": "A free-to-play 2D browser-based fantasy MMORPG with plenty of dungeons and world bosses to slay.",
+    "imagen": "https://www.freetogame.com/g/384/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-08-07",
+    "precio": 22.08
+  },
+  {
+    "juegoId": "57e2298a-75df-491b-b8b7-392d27c5ca3f",
+    "titulo": "WARMODE",
+    "descripcion": "A Free to play multiplayer online shooter. Sight in enemies to master Headshots, Double Kills and Triple Kills! ",
+    "imagen": "https://www.freetogame.com/g/152/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-08-26",
+    "precio": 11.24
+  },
+  {
+    "juegoId": "c5b33d40-6398-499d-88c8-e6cbf13059d0",
+    "titulo": "Sphere 3: Enchanted World",
+    "descripcion": "A fantasy action MMORPG with a non-target combat system.",
+    "imagen": "https://www.freetogame.com/g/154/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-08-18",
+    "precio": 11.98
+  },
+  {
+    "juegoId": "38e899a3-5e83-48dc-9423-bc7e4efd50a1",
+    "titulo": "Fishing Planet",
+    "descripcion": "A Free to play realistic online first-person multiplayer fishing simulator! ",
+    "imagen": "https://www.freetogame.com/g/157/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2015-08-11",
+    "precio": 13.09
+  },
+  {
+    "juegoId": "c902482f-b730-4f9a-aa00-b234a8a81f07",
+    "titulo": "Aberoth",
+    "descripcion": "A free to play 8-bit MMORPG with retro graphics and MUD-like interface.",
+    "imagen": "https://www.freetogame.com/g/386/thumbnail.jpg",
+    "genero": " MMORPG",
+    "fechaPublicacion": "2015-07-17",
+    "precio": 22.82
+  },
+  {
+    "juegoId": "7d159f81-578a-4e0c-91ad-5253de2dedf7",
+    "titulo": "Codename CURE",
+    "descripcion": "A free to play 3D MMOFPS featuring cooperative play, and objective-based missions.",
+    "imagen": "https://www.freetogame.com/g/159/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-07-18",
+    "precio": 13.83
+  },
+  {
+    "juegoId": "dd1e8557-b08e-4c7a-b5cf-6f49e44a708d",
+    "titulo": "Card Hunter",
+    "descripcion": "A free online collectible card game which blends together role-playing, card play and tactical combat. ",
+    "imagen": "https://www.freetogame.com/g/163/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2015-07-14",
+    "precio": 15.31
+  },
+  {
+    "juegoId": "06a1eabc-f9c8-4829-8c14-062c09c6f9c0",
+    "titulo": "Fallout Shelter",
+    "descripcion": "A free-to-play simulation game based on Bethesda Game Studios' popular Fallout franchise. ",
+    "imagen": "https://www.freetogame.com/g/104/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-06-14",
+    "precio": 18.48
+  },
+  {
+    "juegoId": "d59a56ba-8cdf-4cbe-8ae3-e1f8b71978e0",
+    "titulo": "Lord’s Road",
+    "descripcion": "A free-to-play 2D browser-based fantasy MMORPG that features two playable classes.",
+    "imagen": "https://www.freetogame.com/g/388/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-06-03",
+    "precio": 23.56
+  },
+  {
+    "juegoId": "370f2b0c-9d9e-4f47-958e-83aae583a125",
+    "titulo": "Salem",
+    "descripcion": "A free-to-play, sandbox type MMO based on the times and trials of living.",
+    "imagen": "https://www.freetogame.com/g/167/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-06-19",
+    "precio": 16.79
+  },
+  {
+    "juegoId": "5c16fb8d-61d8-4702-8492-a87f859c14ec",
+    "titulo": "Heroes of the Storm",
+    "descripcion": "A free to play MOBA developed by Blizzard Entertainment.",
+    "imagen": "https://www.freetogame.com/g/168/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2015-06-02",
+    "precio": 17.16
+  },
+  {
+    "juegoId": "6fa1e1dc-af1d-4f2f-a718-8a2aef6935ef",
+    "titulo": "Dirty Bomb",
+    "descripcion": "A free-to-play first person shooter multiplayer game set in a post-apocalyptic London.",
+    "imagen": "https://www.freetogame.com/g/169/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-06-01",
+    "precio": 17.53
+  },
+  {
+    "juegoId": "885a7b0c-cdcb-4a72-b1d8-8bf7ed1428e8",
+    "titulo": "Vikings: War Of Clans",
+    "descripcion": "A free-to-play MMO strategy game developed and published by Plarium.",
+    "imagen": "https://www.freetogame.com/g/357/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-04-15",
+    "precio": 12.09
+  },
+  {
+    "juegoId": "73d6e572-9a94-4994-a679-93da7a821680",
+    "titulo": "Star Trek: Alien Domain",
+    "descripcion": "A free to play browser based 2D strategy MMO set in the Stark Trek universe.",
+    "imagen": "https://www.freetogame.com/g/391/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-04-07",
+    "precio": 24.67
+  },
+  {
+    "juegoId": "b0f296bb-0060-40ab-93ed-37e7264cc8a5",
+    "titulo": "Survarium",
+    "descripcion": "A free to play post-apocalyptic online FPS game.",
+    "imagen": "https://www.freetogame.com/g/175/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-04-02",
+    "precio": 19.75
+  },
+  {
+    "juegoId": "8c9b12c3-7ceb-4ae5-9212-9e4fcfdfb579",
+    "titulo": "Dungeon Fighter Online",
+    "descripcion": "A free to play arcade-style side-scrolling action game mixed with RPG elements.",
+    "imagen": "https://www.freetogame.com/g/177/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2015-03-24",
+    "precio": 20.49
+  },
+  {
+    "juegoId": "3e92c8ec-b60e-494b-a4e6-f99f941c46b6",
+    "titulo": "Grimoire: Manastorm",
+    "descripcion": "A free-to-play multiplayer FPS... with wizards. ",
+    "imagen": "https://www.freetogame.com/g/56/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-02-04",
+    "precio": 25.72
+  },
+  {
+    "juegoId": "99b59df1-b866-405c-84e1-03c0fb2afcd7",
+    "titulo": "StarColony",
+    "descripcion": "A free-to-play browser MMO strategy game that puts you in command of a rapidly growing city on a dangerous alien world.",
+    "imagen": "https://www.freetogame.com/g/373/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2015-01-01",
+    "precio": 18.01
+  },
+  {
+    "juegoId": "9f1c0959-6ae6-4c09-b444-1a7c97a63f7b",
+    "titulo": "Transformice",
+    "descripcion": "A cute little free-to-play MMO platformer.",
+    "imagen": "https://www.freetogame.com/g/179/thumbnail.jpg",
+    "genero": "Fantasy",
+    "fechaPublicacion": "2015-01-30",
+    "precio": 21.23
+  },
+  {
+    "juegoId": "d4a2a6a5-2e51-4ba6-87ea-c7ff21d9c02c",
+    "titulo": "Gear Up",
+    "descripcion": "Control your unique tank or robot in multiplayer arcade action!",
+    "imagen": "https://www.freetogame.com/g/180/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2015-01-29",
+    "precio": 21.6
+  },
+  {
+    "juegoId": "3ea0c1de-7397-40ea-8e7d-fab8e75ac33a",
+    "titulo": "8BitMMO",
+    "descripcion": "A free to play retro­-style 2D MMO and a giant construction sandbox! ",
+    "imagen": "https://www.freetogame.com/g/181/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2015-01-26",
+    "precio": 21.97
+  },
+  {
+    "juegoId": "40c4fc46-a4ec-485e-a119-01149c4b707a",
+    "titulo": "Siegelord",
+    "descripcion": "A free to play 2D medieval fantasy browser-based MMORTS.",
+    "imagen": "https://www.freetogame.com/g/399/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2014-12-19",
+    "precio": 27.63
+  },
+  {
+    "juegoId": "c142ac99-72cf-406d-b293-6cfc39730e72",
+    "titulo": "Dungeon Defenders 2",
+    "descripcion": "A free-to-play cooperative 3D tower-defense game by Trendy Entertainment.",
+    "imagen": "https://www.freetogame.com/g/182/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-12-05",
+    "precio": 22.34
+  },
+  {
+    "juegoId": "2bb09801-6f36-416d-a7fa-866e84a76f6f",
+    "titulo": "Blockade 3D",
+    "descripcion": "A free to play FPS in an editable procedural world.",
+    "imagen": "https://www.freetogame.com/g/184/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-11-05",
+    "precio": 23.08
+  },
+  {
+    "juegoId": "c50ebed1-c38b-46ad-9354-1e9afe53808b",
+    "titulo": "Eldevin",
+    "descripcion": "A indie story-driven Free to Play MMORPG.",
+    "imagen": "https://www.freetogame.com/g/185/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-11-05",
+    "precio": 23.45
+  },
+  {
+    "juegoId": "cc0bbc3d-7214-4520-98dd-7155944f5fb5",
+    "titulo": "Double Action",
+    "descripcion": "A free to play FPS with bullet time and stylish kills!",
+    "imagen": "https://www.freetogame.com/g/186/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-10-23",
+    "precio": 23.82
+  },
+  {
+    "juegoId": "74e1217f-e14b-447d-a308-8898cbe4a45b",
+    "titulo": "Pox Nora",
+    "descripcion": "A multiplayer online game that combines a collectible card game with a turn-based strategy game.",
+    "imagen": "https://www.freetogame.com/g/187/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2014-10-15",
+    "precio": 24.19
+  },
+  {
+    "juegoId": "0a9b6465-967a-41b9-8ac4-fc6307ec6e09",
+    "titulo": "Counter-Strike Nexon",
+    "descripcion": "What's better than Counter-Strike? Counter-Strike with more modes and Zombies!",
+    "imagen": "https://www.freetogame.com/g/188/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-10-07",
+    "precio": 24.56
+  },
+  {
+    "juegoId": "aecc0ab3-71ad-488b-90b5-e45602f99f35",
+    "titulo": "Uncharted Waters Online",
+    "descripcion": "A free to play adventure MMORPG set on the high seas! ",
+    "imagen": "https://www.freetogame.com/g/189/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-10-03",
+    "precio": 24.93
+  },
+  {
+    "juegoId": "3ac29c7a-7ef9-415c-b96e-7847bec342d7",
+    "titulo": "ArcheAge",
+    "descripcion": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",
+    "imagen": "https://www.freetogame.com/g/10/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-09-04",
+    "precio": 8.7
+  },
+  {
+    "juegoId": "0cf68744-3dce-4ac2-932f-cf9640332674",
+    "titulo": "Tribal Wars 2",
+    "descripcion": "The sequel to the classic city-building strategy game Tribal Wars! ",
+    "imagen": "https://www.freetogame.com/g/404/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2014-09-02",
+    "precio": 29.48
+  },
+  {
+    "juegoId": "7354b514-f89e-424a-a8c3-285add67eecf",
+    "titulo": "WAKFU",
+    "descripcion": "A 2D tactical turn-based fantasy MMORPG developed by Ankama Games, in conjunction with Square Enix.",
+    "imagen": "https://www.freetogame.com/g/192/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-09-19",
+    "precio": 26.04
+  },
+  {
+    "juegoId": "c46d0878-2d61-441c-9c90-87c8604205db",
+    "titulo": "Infinity Wars",
+    "descripcion": "A MMO trading card game, Build up your decks and customize them with tons of factional cards! ",
+    "imagen": "https://www.freetogame.com/g/193/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2014-09-05",
+    "precio": 26.41
+  },
+  {
+    "juegoId": "2bf094f7-055f-4e1e-ac6b-b02b68c756d7",
+    "titulo": "Divine Souls",
+    "descripcion": "A action-based MMORPG in a fantasy world with magic and technology. ",
+    "imagen": "https://www.freetogame.com/g/195/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-08-15",
+    "precio": 27.15
+  },
+  {
+    "juegoId": "dd6419ad-b075-494e-a442-e2c085fa8297",
+    "titulo": "Cubic Castles",
+    "descripcion": "A free to play 3D Platforming and a open world building game.",
+    "imagen": "https://www.freetogame.com/g/196/thumbnail.jpg",
+    "genero": "MMO",
+    "fechaPublicacion": "2014-08-13",
+    "precio": 27.52
+  },
+  {
+    "juegoId": "5306e7cf-6b6b-4291-af4e-7160691214f0",
+    "titulo": "Royal Quest",
+    "descripcion": "A free to play fantasy MMORPG game with unique PvPvE locations, PvP Arenas, Battlegrounds and Castle Sieges. ",
+    "imagen": "https://www.freetogame.com/g/199/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-08-06",
+    "precio": 28.63
+  },
+  {
+    "juegoId": "b1b86bdd-0b5a-4a6b-9b3e-d8903c736b2f",
+    "titulo": "Bleach Online",
+    "descripcion": "A free to play 2D browser based MMORPG based on Bleach, the popular manga and anime series.",
+    "imagen": "https://www.freetogame.com/g/348/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-07-14",
+    "precio": 8.76
+  },
+  {
+    "juegoId": "230a472c-23b3-4fca-8f63-d0b9fac897f4",
+    "titulo": "Unturned",
+    "descripcion": "A independently developed free-to-play MMO survival \r\ngame! ",
+    "imagen": "https://www.freetogame.com/g/204/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-07-08",
+    "precio": 5.48
+  },
+  {
+    "juegoId": "bbb4a57e-6890-471b-bc14-cee673c6cdf9",
+    "titulo": "Warface",
+    "descripcion": "A free-to-play multiplayer online FPS from Crytek, makers of the Far Cry and Crysis series of games.",
+    "imagen": "https://www.freetogame.com/g/207/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-07-01",
+    "precio": 6.59
+  },
+  {
+    "juegoId": "954b2605-e104-4523-97fe-cd931556a0ce",
+    "titulo": "Freestyle2: Street Basketball",
+    "descripcion": "A free to play MMO street basketball game. Team up with the best street ballers! ",
+    "imagen": "https://www.freetogame.com/g/209/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2014-06-20",
+    "precio": 7.33
+  },
+  {
+    "juegoId": "be59a075-4e6a-4e9b-ba01-5a8b070de25e",
+    "titulo": "Fistful of Frags",
+    "descripcion": "A first person shooter game set in the Wild West! ",
+    "imagen": "https://www.freetogame.com/g/210/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-05-10",
+    "precio": 7.7
+  },
+  {
+    "juegoId": "58d5ae00-d4b0-4fb1-bff3-726f002cdc3e",
+    "titulo": "GunZ 2: The Second Duel",
+    "descripcion": "A free-to-play multiplayer Third Person Shooter and follow up to the successful GunZ: The Duel. ",
+    "imagen": "https://www.freetogame.com/g/211/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2014-05-01",
+    "precio": 8.07
+  },
+  {
+    "juegoId": "0a5c5237-e85f-4337-8272-50693be4a582",
+    "titulo": "Archeblade",
+    "descripcion": "A free-to-play PvP-based multiplayer action game based on a Korean Fantasy Novel.",
+    "imagen": "https://www.freetogame.com/g/213/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2014-04-25",
+    "precio": 8.81
+  },
+  {
+    "juegoId": "b7066759-a72d-474e-a8ee-f947966f2a07",
+    "titulo": "Villagers and Heroes",
+    "descripcion": "A free-to-play fantasy sandbox 3D MMORPG that has plenty to offer gamers.",
+    "imagen": "https://www.freetogame.com/g/214/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-04-17",
+    "precio": 9.18
+  },
+  {
+    "juegoId": "c41ec457-e55a-498a-b63c-645da5187fe8",
+    "titulo": "Sparta: War of Empires",
+    "descripcion": "A 2D browser-based MMORTS in which players must exercise their city-management skills to construct and upgrade different structures and troops.",
+    "imagen": "https://www.freetogame.com/g/409/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2014-03-13",
+    "precio": 6.33
+  },
+  {
+    "juegoId": "1ac97216-fe14-4f01-bb60-66509837435c",
+    "titulo": "Smite",
+    "descripcion": "A popular free-to-play 3D MOBA where you take on the role of an ancient god.",
+    "imagen": "https://www.freetogame.com/g/217/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2014-03-25",
+    "precio": 10.29
+  },
+  {
+    "juegoId": "7c81a0b1-690d-4d1c-92fb-c42689d9c8fa",
+    "titulo": "Dogs of War Online",
+    "descripcion": "Based on the famous miniature board game Confrontation!",
+    "imagen": "https://www.freetogame.com/g/239/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2014-02-04",
+    "precio": 18.43
+  },
+  {
+    "juegoId": "fa3bb348-2a6c-401e-b30e-74a3bfbdb9ed",
+    "titulo": "Hearthstone: Heroes of Warcraft",
+    "descripcion": "Blizzard's free-to-play collectible card game that \r\ndraws its inspiration from World of Warcraft. ",
+    "imagen": "https://www.freetogame.com/g/220/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2014-01-21",
+    "precio": 11.4
+  },
+  {
+    "juegoId": "50e7aee5-bc12-416d-be06-ea327b7ae42e",
+    "titulo": "Lucent Heart",
+    "descripcion": "A free to play MMORPG with a match making system that helps players find their soulmates.",
+    "imagen": "https://www.freetogame.com/g/221/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2014-01-10",
+    "precio": 11.77
+  },
+  {
+    "juegoId": "c84874ce-45b6-4838-a7ba-2ab3980c9d74",
+    "titulo": "League of Angels",
+    "descripcion": "A free to play 2D browser-based fantasy MMORPG with turn-based combat.",
+    "imagen": "https://www.freetogame.com/g/376/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-12-10",
+    "precio": 19.12
+  },
+  {
+    "juegoId": "bb0198e0-ff0b-4d25-8dbb-5a42ec713c80",
+    "titulo": "Aura Kingdom",
+    "descripcion": "Aura Kingdom is a 3D free-to-play Anime MMORPG from the same great studio that brought us Eden Eterna.",
+    "imagen": "https://www.freetogame.com/g/206/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-12-23",
+    "precio": 6.22
+  },
+  {
+    "juegoId": "fc155660-0ee5-4506-8b6e-c6a8d7f0abad",
+    "titulo": "Crystal Saga",
+    "descripcion": "A free to play 2D browser-based MMORPG that allows players to explore the land of Vidalia.",
+    "imagen": "https://www.freetogame.com/g/424/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-11-20",
+    "precio": 11.88
+  },
+  {
+    "juegoId": "7e314174-0a08-40e4-abd1-da6800d26046",
+    "titulo": "World of Warplanes",
+    "descripcion": "A free-to-play flight combat MMO brought to you by Wargaming.",
+    "imagen": "https://www.freetogame.com/g/224/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2013-11-12",
+    "precio": 12.88
+  },
+  {
+    "juegoId": "c271238b-39b2-4b7f-8cfd-dcbaf855cab7",
+    "titulo": "RIFT",
+    "descripcion": "Trion Worlds’ flagship fantasy massively multiplayer online role-playing game.",
+    "imagen": "https://www.freetogame.com/g/225/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-10-24",
+    "precio": 13.25
+  },
+  {
+    "juegoId": "97796b85-af76-4633-9664-5f106ecd7fdc",
+    "titulo": "Path of Exile",
+    "descripcion": "A free-to-play massively multiplayer online ARPG in the style of Diablo.",
+    "imagen": "https://www.freetogame.com/g/226/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-10-23",
+    "precio": 13.62
+  },
+  {
+    "juegoId": "db737142-ed99-4b65-94f8-ef9598d84941",
+    "titulo": "Soldiers Inc.",
+    "descripcion": "A free to play 2D top-down browser based MMORTS game.",
+    "imagen": "https://www.freetogame.com/g/411/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2013-08-01",
+    "precio": 7.07
+  },
+  {
+    "juegoId": "0b5bcfc0-bba5-4cf4-bee5-c47a99dae603",
+    "titulo": "Nords: Heroes of the North",
+    "descripcion": "A free to play browser-based 2D strategy MMO game with Elves, Orcs, Dragons and more.",
+    "imagen": "https://www.freetogame.com/g/412/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2013-08-01",
+    "precio": 7.44
+  },
+  {
+    "juegoId": "9c6e4af4-0556-4fad-8908-b5fff9ccae03",
+    "titulo": "Dota 2",
+    "descripcion": "Valve's premiere competitive free to play MOBA.",
+    "imagen": "https://www.freetogame.com/g/229/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2013-07-09",
+    "precio": 14.73
+  },
+  {
+    "juegoId": "a5069502-2ecc-4149-97eb-80afebab015a",
+    "titulo": "Ragnarok Online 2",
+    "descripcion": "A 3D fantasy MMORPG, and sequel to the popular Ragnarok Online.",
+    "imagen": "https://www.freetogame.com/g/230/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-05-01",
+    "precio": 15.1
+  },
+  {
+    "juegoId": "8a01c937-1996-4783-89a8-fdf40344dff7",
+    "titulo": "Panzar",
+    "descripcion": "A free-to-play multiplayer third-person shooter with \r\nrpg elements and CryEngine 3 powered \r\ngraphics.",
+    "imagen": "https://www.freetogame.com/g/231/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2013-04-12",
+    "precio": 15.47
+  },
+  {
+    "juegoId": "7c97d3e7-c20f-479d-a29a-9be8d015114b",
+    "titulo": "Kingdom Wars",
+    "descripcion": "A free to play 3D MMORTS with real-time siege combat.",
+    "imagen": "https://www.freetogame.com/g/233/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2013-04-01",
+    "precio": 16.21
+  },
+  {
+    "juegoId": "78cec2e0-c5b8-4b7d-9158-4a256c2d4e27",
+    "titulo": "Warframe",
+    "descripcion": "A cooperative free-to-play third person online action shooter set in an stunning sci-fi world. ",
+    "imagen": "https://www.freetogame.com/g/3/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2013-03-25",
+    "precio": 6.11
+  },
+  {
+    "juegoId": "50437311-fe6b-4f37-9f6c-b489ea28142e",
+    "titulo": "Champions of Regnum",
+    "descripcion": "A free to play, realm versus realm fantasy MMORPG.",
+    "imagen": "https://www.freetogame.com/g/234/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2013-02-27",
+    "precio": 16.58
+  },
+  {
+    "juegoId": "b81108f6-c38e-4c18-bf6f-1afb7d10355e",
+    "titulo": "Star Conflict",
+    "descripcion": "A free to play action-packed MMO space simulation game.",
+    "imagen": "https://www.freetogame.com/g/235/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2013-02-28",
+    "precio": 16.95
+  },
+  {
+    "juegoId": "5c56eada-c418-4c64-8263-db11142ecbc6",
+    "titulo": "Rail Nation",
+    "descripcion": "A free to play 2D browser-based train simulation strategy MMO game.",
+    "imagen": "https://www.freetogame.com/g/414/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2013-01-13",
+    "precio": 8.18
+  },
+  {
+    "juegoId": "53060e19-610b-4dad-8c7a-1d85539783ca",
+    "titulo": "Epic Cards Battle",
+    "descripcion": "A free to play online strategic trading card game with dozens of cards and five factions. ",
+    "imagen": "https://www.freetogame.com/g/240/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2013-01-29",
+    "precio": 18.8
+  },
+  {
+    "juegoId": "7167d3e6-52b0-4d4f-be06-57e71270bcdd",
+    "titulo": "Age of Wushu",
+    "descripcion": "A free-to-play martial arts action MMORPG with a large open world and sandbox-like features.",
+    "imagen": "https://www.freetogame.com/g/232/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-12-20",
+    "precio": 15.84
+  },
+  {
+    "juegoId": "059db09a-b988-4469-ab8f-116a34ea589f",
+    "titulo": "Everquest",
+    "descripcion": "A fantasy MMORPG nearly two decades in the making. In fact, it’s the game that started it all! ",
+    "imagen": "https://www.freetogame.com/g/241/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-12-13",
+    "precio": 19.17
+  },
+  {
+    "juegoId": "5d7906b3-1bad-46be-ba00-c670e9cc5be0",
+    "titulo": "Mabinogi",
+    "descripcion": "A free-to-play adventure MMORPG where you can create a unique character and live your fantasy life.",
+    "imagen": "https://www.freetogame.com/g/242/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-12-06",
+    "precio": 19.54
+  },
+  {
+    "juegoId": "8e9beda8-7356-4d51-b498-a2b7e89aaa15",
+    "titulo": "Stormfall: Age of War",
+    "descripcion": "A free to play 2D top-down browser MMORTS featuring castle building, resource management and PvP battles.",
+    "imagen": "https://www.freetogame.com/g/415/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-11-01",
+    "precio": 8.55
+  },
+  {
+    "juegoId": "872ce739-ea6f-46b7-9858-4c8ec8333c58",
+    "titulo": "PlanetSide 2",
+    "descripcion": "A free-to-play open-world FPS that pits three factions against each other in a never-ending war.",
+    "imagen": "https://www.freetogame.com/g/243/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2012-11-21",
+    "precio": 19.91
+  },
+  {
+    "juegoId": "3c1cd8df-253f-4df2-a37d-d77924767f3b",
+    "titulo": "AirMech",
+    "descripcion": "A free to play Action RTS with MOBA elements.",
+    "imagen": "https://www.freetogame.com/g/244/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-11-08",
+    "precio": 20.28
+  },
+  {
+    "juegoId": "d2b01353-28ef-42ef-8d43-33e612e427e2",
+    "titulo": "Big Farm",
+    "descripcion": "A friendly browser-based farming simulation MMO game!",
+    "imagen": "https://www.freetogame.com/g/349/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-10-29",
+    "precio": 9.13
+  },
+  {
+    "juegoId": "a9f808d4-9e82-47c3-9850-9568c90d81a7",
+    "titulo": "Wartune",
+    "descripcion": "A 2D browser-based Strategy MMORPG with classic turn based RPG features.",
+    "imagen": "https://www.freetogame.com/g/416/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-10-25",
+    "precio": 8.92
+  },
+  {
+    "juegoId": "514d1112-7b73-4ce8-a361-a316c95b35bf",
+    "titulo": "Pirate 101",
+    "descripcion": "A free to play Pirate-themed MMORPG designed with kids in mind.",
+    "imagen": "https://www.freetogame.com/g/246/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-10-15",
+    "precio": 21.02
+  },
+  {
+    "juegoId": "9667beb9-45a1-4751-bc65-bc584d5965a4",
+    "titulo": "Dino Storm",
+    "descripcion": "A free-to-play 3D MMO with cowboys, dinosaurs, and laser guns.",
+    "imagen": "https://www.freetogame.com/g/417/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-09-12",
+    "precio": 9.29
+  },
+  {
+    "juegoId": "d3dabc09-0a6b-4b9e-8734-bd1df64b856e",
+    "titulo": "The Settlers Online",
+    "descripcion": "A free to play city building MMORTS based on the popular Settlers series.",
+    "imagen": "https://www.freetogame.com/g/418/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-09-11",
+    "precio": 9.66
+  },
+  {
+    "juegoId": "1fd2cb30-d84d-444b-9913-642957a426f2",
+    "titulo": "Continent of the Ninth Seal",
+    "descripcion": "A free MMORPG where players take part as heroes of Glenheim to stand together against Nefer.",
+    "imagen": "https://www.freetogame.com/g/248/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-09-13",
+    "precio": 21.76
+  },
+  {
+    "juegoId": "5a671c1d-048b-4e53-98ac-3eb17d0ca465",
+    "titulo": "Counter-Strike 2",
+    "descripcion": "The popular multiplayer shooter from Valve.",
+    "imagen": "https://www.freetogame.com/g/24/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2012-08-21",
+    "precio": 13.88
+  },
+  {
+    "juegoId": "e683550b-1dfd-4b50-8e8f-43822e05124e",
+    "titulo": "RPG MO",
+    "descripcion": "A nostalgic free MMORPG reminiscent of old-school RPG's like Ultima and Runescape.",
+    "imagen": "https://www.freetogame.com/g/249/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-07-18",
+    "precio": 22.13
+  },
+  {
+    "juegoId": "baae117a-a95e-4f6d-81b4-65dec52e7de4",
+    "titulo": "Realm of the Mad God",
+    "descripcion": "A fast paced 2d free to play MMO shooter game with a retro 8-bit style.",
+    "imagen": "https://www.freetogame.com/g/256/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2012-02-21",
+    "precio": 24.72
+  },
+  {
+    "juegoId": "77c85d6e-0420-4e70-a1c0-657a4964289e",
+    "titulo": "Pirates: Tides of Fortune",
+    "descripcion": "A free to play browser-based 2D MMORTS for people who are fans of pirates!",
+    "imagen": "https://www.freetogame.com/g/422/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-02-12",
+    "precio": 11.14
+  },
+  {
+    "juegoId": "1ffa6784-9b3f-4360-88f0-551e20bab933",
+    "titulo": "Stronghold Kingdoms",
+    "descripcion": "A strategy based building/warfare game based on the long running Strongholds PC game series.",
+    "imagen": "https://www.freetogame.com/g/255/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2012-02-28",
+    "precio": 24.35
+  },
+  {
+    "juegoId": "ef785b14-6ab4-4e91-bbb9-e00d7f952dee",
+    "titulo": "Star Wars: The Old Republic",
+    "descripcion": "A 3D sci-fi MMORPG based on the popular Star Wars universe and brought to you by Bioware. ",
+    "imagen": "https://www.freetogame.com/g/257/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-12-20",
+    "precio": 25.09
+  },
+  {
+    "juegoId": "1969073d-5d6b-47e9-aecb-c2624ad90971",
+    "titulo": "No More Room in Hell",
+    "descripcion": "A free to play cooperative FPS survival horror mod for the Source Engine.",
+    "imagen": "https://www.freetogame.com/g/261/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2011-10-31",
+    "precio": 26.57
+  },
+  {
+    "juegoId": "85ee1c12-82c6-41db-8680-295018b929ca",
+    "titulo": "Digimon Masters Online",
+    "descripcion": "A free to play 3D MMORPG based on the popular Digimon franchise.",
+    "imagen": "https://www.freetogame.com/g/262/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-10-20",
+    "precio": 26.94
+  },
+  {
+    "juegoId": "f63d4cd4-ef50-4f79-be2e-0e1e099cf0c8",
+    "titulo": "Dragon Nest",
+    "descripcion": "A free-to-play action MMORPG with non-targeting combat.",
+    "imagen": "https://www.freetogame.com/g/264/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-09-28",
+    "precio": 27.68
+  },
+  {
+    "juegoId": "03a1ebb4-9dc4-4e83-9c56-18df83604498",
+    "titulo": "Drakensang Online",
+    "descripcion": "A free to play browser-based top-down hack-and-slash 3D MMORPG similar to games in the Diablo series.",
+    "imagen": "https://www.freetogame.com/g/427/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-08-08",
+    "precio": 12.99
+  },
+  {
+    "juegoId": "33cad321-74a8-46fc-baf5-3c83ef4083d8",
+    "titulo": "Spiral Knights",
+    "descripcion": "A massively multiplayer online role-playing game, battle monsters and collect treasures!",
+    "imagen": "https://www.freetogame.com/g/269/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-06-15",
+    "precio": 29.53
+  },
+  {
+    "juegoId": "26e2fda4-756d-474c-90b4-c3071e1d16cb",
+    "titulo": "Steel Legions",
+    "descripcion": "A free to play 3d browser based tank game with fast-paced tactical battles! ",
+    "imagen": "https://www.freetogame.com/g/423/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2011-06-15",
+    "precio": 11.51
+  },
+  {
+    "juegoId": "4af2be1b-d1e0-4577-a356-b7ca027b0ecd",
+    "titulo": "Asda Global",
+    "descripcion": "A 3D anime-inspired fantasy MMORPG and is the successor to the original Asda Story.",
+    "imagen": "https://www.freetogame.com/g/271/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-05-19",
+    "precio": 5.27
+  },
+  {
+    "juegoId": "a5199155-002a-48f1-9d23-2138734ee50b",
+    "titulo": "Brink",
+    "descripcion": "A free-to-play first-person-shoot developed by Splash \r\nDamage and published by Bethesda Softworks. ",
+    "imagen": "https://www.freetogame.com/g/60/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2011-05-09",
+    "precio": 27.2
+  },
+  {
+    "juegoId": "6d863420-d916-410e-afb0-498ddc564c62",
+    "titulo": "Allods Online",
+    "descripcion": "A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.",
+    "imagen": "https://www.freetogame.com/g/272/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-04-26",
+    "precio": 5.64
+  },
+  {
+    "juegoId": "d4e2667c-d9c4-4be0-a238-12935f79fe3f",
+    "titulo": "Elsword",
+    "descripcion": "A Free to Play 3D side scrolling action MMORPG with many heroes.",
+    "imagen": "https://www.freetogame.com/g/205/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-03-23",
+    "precio": 5.85
+  },
+  {
+    "juegoId": "1c0fac68-5eca-46b7-81ec-d01e98c270b9",
+    "titulo": "DC Universe Online",
+    "descripcion": "A free-to-play, comics based MMORPG set in the popular DC Comics universe.",
+    "imagen": "https://www.freetogame.com/g/260/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2011-01-11",
+    "precio": 26.2
+  },
+  {
+    "juegoId": "23b2788d-e172-4143-a74a-0da3cbffe6fb",
+    "titulo": "Bloodline Champions",
+    "descripcion": "Free-to-Play Moba game where players engage in short battles of up to ten players divided into two teams.",
+    "imagen": "https://www.freetogame.com/g/273/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2011-01-13",
+    "precio": 6.01
+  },
+  {
+    "juegoId": "a33ae9ef-73a9-49cc-9c06-5c507dac439b",
+    "titulo": "GetAmped 2",
+    "descripcion": "A free to play fighting MMO, experience frantic battles up to 20 players.",
+    "imagen": "https://www.freetogame.com/g/274/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2010-12-16",
+    "precio": 6.38
+  },
+  {
+    "juegoId": "4700dee0-9c93-405e-a029-c42c8bfda146",
+    "titulo": "Dragon Saga",
+    "descripcion": "A free to play arcade­-style side­-scrolling 3D MMORPG.",
+    "imagen": "https://www.freetogame.com/g/275/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2010-10-28",
+    "precio": 6.75
+  },
+  {
+    "juegoId": "9aff776c-f893-4bb6-b642-1206545a82d8",
+    "titulo": "Vindictus",
+    "descripcion": "A free to play action MMO game with beautiful graphics and intense battles.",
+    "imagen": "https://www.freetogame.com/g/276/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2010-10-13",
+    "precio": 7.12
+  },
+  {
+    "juegoId": "0130a342-93ec-481d-b16f-61c13b33adfe",
+    "titulo": "Aika Online",
+    "descripcion": "A free-to-play MMORPG with large scale PvP battles.",
+    "imagen": "https://www.freetogame.com/g/277/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2010-08-27",
+    "precio": 7.49
+  },
+  {
+    "juegoId": "a1d8061a-d1fd-4acf-9b61-7acc7dc4c49e",
+    "titulo": "APB Reloaded",
+    "descripcion": "A free to play 3D MMO third person shooter game brought to you by GTA creator.",
+    "imagen": "https://www.freetogame.com/g/258/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2010-06-29",
+    "precio": 25.46
+  },
+  {
+    "juegoId": "267895ca-7c34-433e-bb42-2e9475e13af2",
+    "titulo": "Mortal Online",
+    "descripcion": "A unique free to play First Person sandbox MMORPG.",
+    "imagen": "https://www.freetogame.com/g/278/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2010-06-09",
+    "precio": 7.86
+  },
+  {
+    "juegoId": "91d626c6-bfc1-4b36-a251-9d00ab30cc6f",
+    "titulo": "Grand Fantasia",
+    "descripcion": "A free to play anime inspired 3D MMORPG with customizable characters and \r\ncompanions.",
+    "imagen": "https://www.freetogame.com/g/281/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2009-12-01",
+    "precio": 8.97
+  },
+  {
+    "juegoId": "1182b3ca-6a6b-4d40-a6fe-ec86e8244ea6",
+    "titulo": "Grepolis",
+    "descripcion": "A free to play browser-based strategy MMORTS set in Ancient Greece.",
+    "imagen": "https://www.freetogame.com/g/425/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2009-12-08",
+    "precio": 12.25
+  },
+  {
+    "juegoId": "a93d70d0-9308-46e4-ae2b-8d0e83704938",
+    "titulo": "League of Legends",
+    "descripcion": "A free-to-play MOBA game, and one of the most played pc game in the world.",
+    "imagen": "https://www.freetogame.com/g/286/thumbnail.jpg",
+    "genero": "MOBA",
+    "fechaPublicacion": "2009-10-27",
+    "precio": 10.82
+  },
+  {
+    "juegoId": "a265a555-f2c2-4911-ae51-86504468d44e",
+    "titulo": "Twelve Sky 2",
+    "descripcion": "There’s a lot of world to explore in this fantasy MMORPG!",
+    "imagen": "https://www.freetogame.com/g/287/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2009-09-09",
+    "precio": 11.19
+  },
+  {
+    "juegoId": "a2fe49ea-6a34-4c56-aed7-2629948534a1",
+    "titulo": "Champions Online",
+    "descripcion": "A superhero MMORPG created by the same studio behind City of Heroes.",
+    "imagen": "https://www.freetogame.com/g/288/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2009-09-01",
+    "precio": 11.56
+  },
+  {
+    "juegoId": "e846398e-7f82-4c54-a3a6-7d450962c0c9",
+    "titulo": "WolfTeam",
+    "descripcion": "A free to play MMOFPS with a twist.",
+    "imagen": "https://www.freetogame.com/g/280/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2009-07-09",
+    "precio": 8.6
+  },
+  {
+    "juegoId": "9c8e2f5e-74ed-4126-aacf-ab9c3bea540c",
+    "titulo": "Runes of Magic",
+    "descripcion": "A free-to-play fantasy 3D MMORPG set in the fantasy world of Taborea.",
+    "imagen": "https://www.freetogame.com/g/290/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2009-03-19",
+    "precio": 12.3
+  },
+  {
+    "juegoId": "d3358473-da64-4782-af7f-c75ab0a08cf3",
+    "titulo": "theHunter",
+    "descripcion": "An MMO shooter where players can hunt 22 different animals in various locations.",
+    "imagen": "https://www.freetogame.com/g/291/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2009-03-05",
+    "precio": 12.67
+  },
+  {
+    "juegoId": "3e28211b-4128-46fa-af9c-04c95f5fbdf8",
+    "titulo": "AION",
+    "descripcion": "A high fantasy, free-to-play MMORPG that centers on the war between the game’s two factions: The Asmodians and the Elyos.",
+    "imagen": "https://www.freetogame.com/g/254/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-11-25",
+    "precio": 23.98
+  },
+  {
+    "juegoId": "bec260bf-ab9e-43b1-ac6b-3bdfd2d57b07",
+    "titulo": "Atlantica Online",
+    "descripcion": "A free-to-play 3D tactical massively multiplayer online role-playing game.",
+    "imagen": "https://www.freetogame.com/g/293/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-10-30",
+    "precio": 13.41
+  },
+  {
+    "juegoId": "4e3d41c5-b464-4c93-a5e1-372f39f7f927",
+    "titulo": "Florensia",
+    "descripcion": "A free to play fantasy MMORPG with legendary worlds ashore and at \r\nsea.",
+    "imagen": "https://www.freetogame.com/g/295/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-10-15",
+    "precio": 14.15
+  },
+  {
+    "juegoId": "cabe38ea-7ec9-4907-9204-4e955bad72dc",
+    "titulo": "4Story",
+    "descripcion": "A enjoyable MMORPG where you can customize your character, join guilds and battle other factions.",
+    "imagen": "https://www.freetogame.com/g/306/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-10-20",
+    "precio": 18.22
+  },
+  {
+    "juegoId": "da22986d-10d3-416b-94b8-9c940b0e2e2c",
+    "titulo": "AdventureQuest Worlds",
+    "descripcion": "A free-to-play 2D fantasy browser MMORPG. There are no downloads or software to install! ",
+    "imagen": "https://www.freetogame.com/g/426/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-10-10",
+    "precio": 12.62
+  },
+  {
+    "juegoId": "e71acc85-66c4-4e2f-80f0-7ad9b28a6075",
+    "titulo": "S4 league",
+    "descripcion": "A free to play MMO Shooter with fluid gameplay and acrobatic moves!",
+    "imagen": "https://www.freetogame.com/g/296/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2008-09-22",
+    "precio": 14.52
+  },
+  {
+    "juegoId": "272d458f-37cd-4a78-adf2-08dbacf3fe10",
+    "titulo": "Wizard101",
+    "descripcion": "A free to play MMORPG set in the magical Wizard school.",
+    "imagen": "https://www.freetogame.com/g/297/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-09-02",
+    "precio": 14.89
+  },
+  {
+    "juegoId": "5a60ada2-0680-45a5-b722-d2bf7466c163",
+    "titulo": "Perfect World International",
+    "descripcion": "A free-to-play fantasy MMORPG, that focuses heavily on Chinese mythology.",
+    "imagen": "https://www.freetogame.com/g/298/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-09-02",
+    "precio": 15.26
+  },
+  {
+    "juegoId": "dfc0364c-3114-49a2-a49f-13a7c32d5ebb",
+    "titulo": "Ace Online",
+    "descripcion": "A free to play fast action 3D sci-fi MMO where players control space fighters jets.",
+    "imagen": "https://www.freetogame.com/g/319/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2008-08-29",
+    "precio": 23.03
+  },
+  {
+    "juegoId": "20f53837-d874-4b9e-94f8-fc8b57898f19",
+    "titulo": "Rohan: Blood Feud",
+    "descripcion": "A free-to-play medieval MMORPG highly-focused on PVP.",
+    "imagen": "https://www.freetogame.com/g/300/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-05-28",
+    "precio": 16
+  },
+  {
+    "juegoId": "0dfd76b6-881f-4074-83f9-7e3a7f842328",
+    "titulo": "Age of Conan: Unchained",
+    "descripcion": "A award ­winning massively multiplayer online game that has received critical acclaim.",
+    "imagen": "https://www.freetogame.com/g/301/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-05-20",
+    "precio": 16.37
+  },
+  {
+    "juegoId": "52954427-b252-403f-bb69-9569687de4d3",
+    "titulo": "Ikariam",
+    "descripcion": "A free to play browser-based city-building strategy game by GameForge.",
+    "imagen": "https://www.freetogame.com/g/428/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2008-03-31",
+    "precio": 13.36
+  },
+  {
+    "juegoId": "71cf1626-411d-498f-b854-ba384e4e1eec",
+    "titulo": "Fiesta Online",
+    "descripcion": "A free to play anime MMORPG with a friendly community.",
+    "imagen": "https://www.freetogame.com/g/305/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2008-02-01",
+    "precio": 17.85
+  },
+  {
+    "juegoId": "9f1dc6d8-5586-419c-87b5-6365cda0e5b0",
+    "titulo": "Angels Online Global",
+    "descripcion": "A cute anime MMORPG with a good selection of classes.",
+    "imagen": "https://www.freetogame.com/g/308/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2007-12-01",
+    "precio": 18.96
+  },
+  {
+    "juegoId": "16b48b62-5559-4751-bb17-164dc66e1661",
+    "titulo": "Seal Online",
+    "descripcion": "A free MMORP that has been out for a long period of time with solid history under its belt.",
+    "imagen": "https://www.freetogame.com/g/309/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2007-11-19",
+    "precio": 19.33
+  },
+  {
+    "juegoId": "0d5cb42f-3bc4-4d3f-a226-1595b9827c43",
+    "titulo": "Team Fortress 2",
+    "descripcion": "Valve's iconic class-based free-to-play first-person shooter!",
+    "imagen": "https://www.freetogame.com/g/310/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2007-10-10",
+    "precio": 19.7
+  },
+  {
+    "juegoId": "b32e3d3b-621f-485a-b24a-110414b96935",
+    "titulo": "Rumble Fighter",
+    "descripcion": "A free to play Fighting MMO, test your skills!",
+    "imagen": "https://www.freetogame.com/g/311/thumbnail.jpg",
+    "genero": "Fighting",
+    "fechaPublicacion": "2007-08-02",
+    "precio": 20.07
+  },
+  {
+    "juegoId": "4e62862c-9f81-4352-a5cf-5bfeed8a12e4",
+    "titulo": "Granado Espada Online",
+    "descripcion": "Adventure back to colonial times where you can find prestige, wealth, adventure, and a lot of work.",
+    "imagen": "https://www.freetogame.com/g/312/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2007-07-10",
+    "precio": 20.44
+  },
+  {
+    "juegoId": "9557d48a-04ac-43af-8ffc-537188fee9df",
+    "titulo": "9Dragons",
+    "descripcion": "A martial arts themed MMORPG set in China during the Ming Dynasty.",
+    "imagen": "https://www.freetogame.com/g/265/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2007-05-09",
+    "precio": 28.05
+  },
+  {
+    "juegoId": "fbcba089-ea91-4003-aa37-2d80d8c8b2fc",
+    "titulo": "Crossfire",
+    "descripcion": "A first person tactical shooter with a huge selection of game modes!",
+    "imagen": "https://www.freetogame.com/g/15/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2007-05-03",
+    "precio": 10.55
+  },
+  {
+    "juegoId": "0d37a888-fb6e-449f-9277-2453b8f819bb",
+    "titulo": "Teeworlds",
+    "descripcion": "A free to play retro multiplayer online shooter where you can even design your own maps!",
+    "imagen": "https://www.freetogame.com/g/313/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2007-05-27",
+    "precio": 20.81
+  },
+  {
+    "juegoId": "4a7050d8-4b69-46bd-b7be-f96f2590f6c4",
+    "titulo": "Priston Tale",
+    "descripcion": "A free to play action-oriented fantasy MMORPG!",
+    "imagen": "https://www.freetogame.com/g/337/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2007-05-17",
+    "precio": 29.69
+  },
+  {
+    "juegoId": "a893e0ce-5a68-4ec8-8f4e-d901ea27161c",
+    "titulo": "Roblox",
+    "descripcion": "A free to play sandbox MMO with lots of creation options.",
+    "imagen": "https://www.freetogame.com/g/16/thumbnail.jpg",
+    "genero": "MMO",
+    "fechaPublicacion": "2006-12-22",
+    "precio": 10.92
+  },
+  {
+    "juegoId": "809296b4-8882-4cf4-9eec-31e3834702de",
+    "titulo": "Metin2",
+    "descripcion": "A classic free to play 3D MMORPG with a retro feel.",
+    "imagen": "https://www.freetogame.com/g/333/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2006-12-17",
+    "precio": 28.21
+  },
+  {
+    "juegoId": "dc9a95c8-cafd-4014-ba21-05bfcd16b967",
+    "titulo": "Dark Orbit Reloaded",
+    "descripcion": "A browser-based 3D space-combat MMO with a massive playerbase!",
+    "imagen": "https://www.freetogame.com/g/380/thumbnail.jpg",
+    "genero": "Shooter",
+    "fechaPublicacion": "2006-12-11",
+    "precio": 20.6
+  },
+  {
+    "juegoId": "d04b07ec-eaf4-45e2-b785-2058ea714cf1",
+    "titulo": "Rappelz",
+    "descripcion": "A free to play 3D classic MMORPG with robust features.",
+    "imagen": "https://www.freetogame.com/g/317/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2006-11-03",
+    "precio": 22.29
+  },
+  {
+    "juegoId": "e7dfd0be-8503-4438-aae2-aca853ef4276",
+    "titulo": "Grand Prix Racing Online",
+    "descripcion": "A free-to-play web-based motorsport management game.",
+    "imagen": "https://www.freetogame.com/g/351/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2006-08-01",
+    "precio": 9.87
+  },
+  {
+    "juegoId": "57e858f1-4366-41e0-b53b-c823a1c82dc3",
+    "titulo": "Astro Empires",
+    "descripcion": "A text-based sci-fi strategy and diplomacy MMO Game in a persistent universe.",
+    "imagen": "https://www.freetogame.com/g/429/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2006-05-20",
+    "precio": 13.73
+  },
+  {
+    "juegoId": "f2b3ae5f-a7ee-4381-9d71-acbf048c6c84",
+    "titulo": "Dungeons and Dragons Online",
+    "descripcion": "A free-to-play MMORPG based on the beloved D&D RPG that started it all.",
+    "imagen": "https://www.freetogame.com/g/320/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2006-02-28",
+    "precio": 23.4
+  },
+  {
+    "juegoId": "30a3456b-9a26-4d39-9437-7bbed66e07a9",
+    "titulo": "Urban Rivals",
+    "descripcion": "A free to play browser based card-game with a high player base and comic-book inspired world!",
+    "imagen": "https://www.freetogame.com/g/430/thumbnail.jpg",
+    "genero": "Card Game",
+    "fechaPublicacion": "2006-01-17",
+    "precio": 14.1
+  },
+  {
+    "juegoId": "750064ee-f590-4c5c-8860-70838be1c3fc",
+    "titulo": "Flyff: Fly For Fun",
+    "descripcion": "A free-to-play anime MMORPG with charming visual aesthetic and an addictive gameplay.",
+    "imagen": "https://www.freetogame.com/g/323/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2005-12-25",
+    "precio": 24.51
+  },
+  {
+    "juegoId": "4c8375be-4b94-418d-9855-d3c89258a41c",
+    "titulo": "Dream of Mirror Online",
+    "descripcion": "A free to play fantasy MMORPG with tons of social features.",
+    "imagen": "https://www.freetogame.com/g/324/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2005-09-03",
+    "precio": 24.88
+  },
+  {
+    "juegoId": "5314b794-cc8e-4bd9-ad8c-022d1d30e3f0",
+    "titulo": "Imperia Online",
+    "descripcion": "A 2D free-to-play browser-based Medieval MMORTS, Train soldiers and raise an Empire.",
+    "imagen": "https://www.freetogame.com/g/431/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2005-08-23",
+    "precio": 14.47
+  },
+  {
+    "juegoId": "90bff8a6-6411-4837-8eb8-ccf0b6356184",
+    "titulo": "MapleStory",
+    "descripcion": "A popular free-to-play 2D side-scrolling MMORPG with tons of quests, and a huge game world!",
+    "imagen": "https://www.freetogame.com/g/325/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2005-05-11",
+    "precio": 25.25
+  },
+  {
+    "juegoId": "fe660613-8ba3-467b-b40c-20c3097bb609",
+    "titulo": "Shot Online",
+    "descripcion": "A free to play Golfing MMO that any golf lover will enjoy to play!",
+    "imagen": "https://www.freetogame.com/g/326/thumbnail.jpg",
+    "genero": "Sports",
+    "fechaPublicacion": "2004-11-30",
+    "precio": 25.62
+  },
+  {
+    "juegoId": "7a26d080-5b2f-4d83-9d51-055aceb94230",
+    "titulo": "Everquest 2",
+    "descripcion": "A free to play 3D fantasy MMORPG and the sequel to EverQuest.",
+    "imagen": "https://www.freetogame.com/g/327/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2004-11-08",
+    "precio": 25.99
+  },
+  {
+    "juegoId": "f1f85db2-389f-4829-9670-02a0051f2a23",
+    "titulo": "Dofus",
+    "descripcion": "A 2D MMORPG with tons of different classes and a tactical combat system.",
+    "imagen": "https://www.freetogame.com/g/328/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2004-09-01",
+    "precio": 26.36
+  },
+  {
+    "juegoId": "5da76de3-d54e-42e2-ac1d-7ec4d05c306e",
+    "titulo": "Travian",
+    "descripcion": "A popular browser-based multiplayer online strategy \r\ngame.",
+    "imagen": "https://www.freetogame.com/g/352/thumbnail.jpg",
+    "genero": "Strategy",
+    "fechaPublicacion": "2004-09-05",
+    "precio": 10.24
+  },
+  {
+    "juegoId": "586042ad-1771-4eda-bde7-431f16a3ee4a",
+    "titulo": "Ryzom",
+    "descripcion": "An MMORPG where players are immersed in a massive sandbox world.",
+    "imagen": "https://www.freetogame.com/g/190/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2004-09-19",
+    "precio": 25.3
+  },
+  {
+    "juegoId": "51b30395-10a2-4044-a8bf-3932156341fb",
+    "titulo": "Kal Online",
+    "descripcion": "A Korean Fantasy MMORPG developed by Inixsoft.",
+    "imagen": "https://www.freetogame.com/g/329/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2004-06-11",
+    "precio": 26.73
+  },
+  {
+    "juegoId": "55563abf-892f-43a5-951d-a3c02ea65925",
+    "titulo": "Lineage 2",
+    "descripcion": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
+    "imagen": "https://www.freetogame.com/g/330/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2004-04-27",
+    "precio": 27.1
+  },
+  {
+    "juegoId": "8a985a79-b530-4be1-b50c-1016d86d4d4d",
+    "titulo": "Red Stone Online",
+    "descripcion": "A free to play 2D old school isometric MMORPG similar to Diablo.",
+    "imagen": "https://www.freetogame.com/g/332/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2003-10-06",
+    "precio": 27.84
+  },
+  {
+    "juegoId": "b25402e0-57bc-45c9-ab99-9cdeacf80b67",
+    "titulo": "Mu Online",
+    "descripcion": "A free to play Dungeon Crawler game like Diablo!",
+    "imagen": "https://www.freetogame.com/g/334/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2003-10-06",
+    "precio": 28.58
+  },
+  {
+    "juegoId": "4beabdfb-c78e-4d26-9ae4-04eb56c7414d",
+    "titulo": "Second Life",
+    "descripcion": "A free to play 3D online virtual world with a huge reputation! ",
+    "imagen": "https://www.freetogame.com/g/18/thumbnail.jpg",
+    "genero": "Social",
+    "fechaPublicacion": "2003-06-23",
+    "precio": 11.66
+  },
+  {
+    "juegoId": "b950c908-5461-48d4-8b42-e2cc50f3e3b1",
+    "titulo": "Ragnarok Online",
+    "descripcion": "A popular fantasy MMORPG, back to the golden age of MMORPGs.",
+    "imagen": "https://www.freetogame.com/g/335/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2003-06-01",
+    "precio": 28.95
+  },
+  {
+    "juegoId": "6abbe0e5-6995-405b-b4ba-1c1053d7b221",
+    "titulo": "Entropia Universe",
+    "descripcion": "A 3D MMO Multi Virtual World Real Cash Economy Experience with RPG elements. ",
+    "imagen": "https://www.freetogame.com/g/17/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2003-01-30",
+    "precio": 11.29
+  },
+  {
+    "juegoId": "7247ca86-3dfb-4bf0-9c23-996bdd8242b6",
+    "titulo": "Habbo",
+    "descripcion": "One of the largest and most popular Social MMO.",
+    "imagen": "https://www.freetogame.com/g/432/thumbnail.jpg",
+    "genero": "Social",
+    "fechaPublicacion": "2001-09-26",
+    "precio": 14.84
+  },
+  {
+    "juegoId": "1c39b9a1-4fc7-4c16-82cf-c808f0f85247",
+    "titulo": "Anarchy Online",
+    "descripcion": "A free to play Sci-Fi MMO that has withstood the test of time.",
+    "imagen": "https://www.freetogame.com/g/336/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2001-06-27",
+    "precio": 29.32
+  },
+  {
+    "juegoId": "0b0e43b2-76fa-42cb-9fbe-aaf8d635bfaf",
+    "titulo": "The Lord of the Rings Online",
+    "descripcion": "A free to play MMORPG set in the world of J.R.R. Tolkien's \r\nclassic fantasy saga.",
+    "imagen": "https://www.freetogame.com/g/251/thumbnail.jpg",
+    "genero": "MMORPG",
+    "fechaPublicacion": "2001-04-24",
+    "precio": 22.87
+  }
+]
