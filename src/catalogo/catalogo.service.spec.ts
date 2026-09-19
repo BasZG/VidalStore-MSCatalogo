@@ -255,4 +255,117 @@ describe('CatalogoService', () => {
     expect(juegos[0].id).toBe('juego-inicial');
     expect(juegos[0].precio).toBe(10000);
   });
+  it('debe rechazar genero invalido al crear sin modificar el catalogo', () => {
+  const antes = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(() =>
+    service.create({
+      titulo: 'Juego inválido',
+      descripcion: 'Prueba',
+      imagen: 'juego.jpg',
+      precio: 1000,
+      genero: '   ',
+    }),
+  ).toThrow(BadRequestException);
+
+  const despues = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(despues).toBe(antes);
+  expect(service.findAll()).toHaveLength(1);
+});
+
+it('debe rechazar fechaPublicacion invalida al crear sin modificar el catalogo', () => {
+  const antes = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(() =>
+    service.create({
+      titulo: 'Juego inválido',
+      descripcion: 'Prueba',
+      imagen: 'juego.jpg',
+      precio: 1000,
+      fechaPublicacion:
+        2026 as unknown as string,
+    }),
+  ).toThrow(BadRequestException);
+
+  const despues = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(despues).toBe(antes);
+  expect(service.findAll()).toHaveLength(1);
+});
+
+it('debe rechazar genero invalido al actualizar sin modificar datos', () => {
+  const antes = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(() =>
+    service.update(
+      'juego-inicial',
+      {
+        genero: '   ',
+      },
+    ),
+  ).toThrow(BadRequestException);
+
+  const despues = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(despues).toBe(antes);
+
+  const juegos = service.findAll();
+
+  expect(juegos).toHaveLength(1);
+  expect(juegos[0].id).toBe(
+    'juego-inicial',
+  );
+  expect(juegos[0].precio).toBe(10000);
+});
+
+it('debe rechazar fechaPublicacion invalida al actualizar sin modificar datos', () => {
+  const antes = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(() =>
+    service.update(
+      'juego-inicial',
+      {
+        fechaPublicacion:
+          2026 as unknown as string,
+      },
+    ),
+  ).toThrow(BadRequestException);
+
+  const despues = readFileSync(
+    rutaDatos,
+    'utf8',
+  );
+
+  expect(despues).toBe(antes);
+
+  const juegos = service.findAll();
+
+  expect(juegos).toHaveLength(1);
+  expect(juegos[0].id).toBe(
+    'juego-inicial',
+  );
+  expect(juegos[0].precio).toBe(10000);
+  });
 });
