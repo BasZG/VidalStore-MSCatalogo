@@ -408,6 +408,146 @@ describe('MSCatalogo seguridad JWT real (e2e)', () => {
       .expect(403);
   });
 
+  it('acepta JWT sin grupos en lectura con scope suficiente', async () => {
+    const token = firmarToken({
+      'cognito:groups': undefined,
+    });
+
+    await request(app.getHttpServer())
+      .get('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .expect(200);
+  });
+
+  it('rechaza JWT sin grupos al crear', async () => {
+    const token = firmarToken({
+      'cognito:groups': undefined,
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego sin privilegios',
+      })
+      .expect(403);
+  });
+
+  it('rechaza JWT sin grupos al modificar', async () => {
+    const token = firmarToken({
+      'cognito:groups': undefined,
+    });
+
+    await request(app.getHttpServer())
+      .put('/v1/catalogo/juego-inicial')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        precio: 999999,
+      })
+      .expect(403);
+  });
+
+  it('trata grupos vacios como jugador', async () => {
+    const token = firmarToken({
+      'cognito:groups': [],
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego sin grupo explicito',
+      })
+      .expect(403);
+  });
+
+  it('conserva editor y descarta grupo desconocido', async () => {
+    const token = firmarToken({
+      'cognito:groups': [
+        'editores',
+        'grupo-externo',
+      ],
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego de editor conocido',
+        descripcion: 'Creado por editor conocido',
+        imagen: 'editor-conocido.jpg',
+        precio: 0,
+      })
+      .expect(201);
+  });
+
+  it('rechaza grupos exclusivamente desconocidos', async () => {
+    const token = firmarToken({
+      'cognito:groups': ['grupo-externo'],
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego de grupo desconocido',
+      })
+      .expect(403);
+  });
+
+  it('rechaza claim de grupos con formato incorrecto', async () => {
+    const token = firmarToken({
+      'cognito:groups': 'editores',
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego con claim invalido',
+      })
+      .expect(403);
+  });
+
+  it('ignora grupos efectivos inyectados en el JWT', async () => {
+    const token = firmarToken({
+      'cognito:groups': ['jugadores'],
+      gruposEfectivos: ['editores'],
+    });
+
+    await request(app.getHttpServer())
+      .post('/v1/catalogo')
+      .set(
+        'Authorization',
+        `Bearer ${token}`,
+      )
+      .send({
+        titulo: 'Juego con contexto inyectado',
+      })
+      .expect(403);
+  });
+
   it('rechaza jugador al crear y no modifica persistencia', async () => {
     const antes =
       readFileSync(rutaDatos, 'utf8');
